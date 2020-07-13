@@ -1,0 +1,2195 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+
+<!-- Mirrored from etchy.qodeinteractive.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 09 Jul 2020 13:46:49 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+	
+	<title>Etchy &#8211; Print Shop WordPress Theme</title>
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+//]]>
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><link rel='dns-prefetch' href='http://export.qodethemes.com/' />
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Etchy &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Etchy &raquo; Comments Feed" href="comments/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/etchy.qodeinteractive.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" href="{%static './wp-content/cache/minify/d9c00.css'%}" media="all" />
+
+
+
+
+
+
+
+<link rel='stylesheet' id='material-icons-css'  href='https://fonts.googleapis.com/icon?family=Material+Icons&amp;ver=5.4.2' type='text/css' media='all' />
+<link rel="stylesheet" href="{%static './wp-content/cache/minify/5be63.css'%}" media="all" />
+
+
+
+
+
+<link rel='stylesheet' id='rabbit_css-css'  href="{%static './_toolbar/assets/css/rbt-modules7661.css'%}?ver=5.4.2" type='text/css' media='all' />
+<link rel="stylesheet" href="{%static './wp-content/cache/minify/edd85.css'%}" media="all" />
+
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" href="{%static './wp-content/cache/minify/0c288.css'%}" media="all" />
+
+
+
+
+
+
+<link rel='stylesheet' id='etchy-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Arimo%3A300%2C400%2C500%2C600%2C700&amp;subset=latin-ext&amp;ver=1.0.0' type='text/css' media='all' />
+<link rel="stylesheet" href="{%static './wp-content/cache/minify/32b13.css'%}" media="all" />
+
+<style id='etchy-style-inline-css' type='text/css'>
+#qodef-page-footer-top-area { background-image: url({%static './wp-content/uploads/2020/05/h1-top-header-line-img-1.jpg'%});background-size: auto;background-position: top left;}#qodef-page-inner { padding: 0px 0px 0px 0px;}@media only screen and (max-width: 1024px) { #qodef-page-inner { padding: 0px 0px 0px 0px;}}.qodef-header-navigation > ul > li.qodef-menu-item--narrow .qodef-drop-down-second ul li a { text-transform: capitalize;}#qodef-page-spinner .qodef-m-inner { background-color: #000000;background-image: url({%static './wp-content/uploads/2020/06/landing-pattern.jpg'%});;}.qodef-page-title { height: 78px;}a, p a { letter-spacing: 0px;}.qodef-search-opener { color: #9f9f9e;}.qodef-search-opener { color: #9f9f9e;}.qodef-header--standard #qodef-page-header { background-image: url({%static './wp-content/uploads/2020/05/h1-top-header-line-img-1.jpg'%});background-repeat: no-repeat;background-position: top left;}@media only screen and (max-width: 680px){h1 { font-size: 55px;}h2 { font-size: 38px;}}
+</style>
+<link rel="stylesheet" href="{%static './wp-content/cache/minify/089d6.css'%}" media="all" />
+
+
+
+
+
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Arimo%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=5.4.2' type='text/css' media='all' />
+<script src="{%static './wp-content/cache/minify/a4d4c.js'%}"></script>
+
+
+
+
+
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<meta name="generator" content="WooCommerce 4.2.2" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='index.html' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embedb161.json?url=https%3A%2F%2Fetchy.qodeinteractive.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedaccf?url=https%3A%2F%2Fetchy.qodeinteractive.com%2F&amp;format=xml" />
+
+
+<!-- Open Graph data is managed by Alex MacArthur's Complete Open Graph plugin. (v3.4.5) -->
+<!-- https://wordpress.org/plugins/complete-open-graph/ -->
+<meta property='og:site_name' content='Etchy' />
+<meta property='og:url' content='https://etchy.qodeinteractive.com' />
+<meta property='og:locale' content='en_US' />
+<meta property='og:description' content='Etchy is a contemporary, boldly designed theme for modern print shop and printing company websites. It&#039;s packed with a wide selection of beautiful premade home and inner page templates for easy print shop website creation. ' />
+<meta property='og:title' content='Etchy - Print Shop' />
+<meta property='og:type' content='website' />
+<meta property='og:image' content='https://etchy.qodeinteractive.com/wp-content/uploads/2020/07/open_graph_1200x630_etchy.jpg' />
+<meta property='og:image:width' content='1200' />
+<meta property='og:image:height' content='630' />
+<meta name='twitter:card' content='summary' />
+<meta name='twitter:title' content='Etchy - Print Shop' />
+<meta name='twitter:image' content='https://etchy.qodeinteractive.com/wp-content/uploads/2020/07/open_graph_1200x630_etchy.jpg' />
+<meta name='twitter:description' content='Etchy is a contemporary, boldly designed theme for modern print shop and printing company websites. It&#039;s packed with a wide selection of beautiful premade home and inner page templates for easy print shop website creation. ' />
+<!-- End Complete Open Graph. | 0.0017540454864502s -->
+
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>//<![CDATA[
+	var dataLayer_content = {"pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"admin"};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KLJLSX7');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by Slider Revolution 6.2.15 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="wp-content/uploads/2020/06/cropped-Favicon_-32x32.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2020/06/cropped-Favicon_-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="wp-content/uploads/2020/06/cropped-Favicon_-180x180.png" />
+<meta name="msapplication-TileImage" content="https://etchy.qodeinteractive.com/wp-content/uploads/2020/06/cropped-Favicon_-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			.qodef-footer-hover {
+	transition: color .25s ease-out;
+}
+
+#qodef-page-footer #qodef-page-footer-bottom-area a:hover .qodef-footer-hover {
+	color: #fff;
+}
+
+.page-id-7 .qodef-accordion,
+.page-id-1908 .qodef-accordion{
+	min-height: 397px;
+}		</style>
+		</head>
+<body class="home page-template page-template-page-full-width page-template-page-full-width-php page page-id-7 theme-etchy qode-framework-1.1.2 woocommerce-no-js qodef-age-verification--opened qodef-back-to-top--enabled  qodef-content-grid-1400 qodef-header--standard qodef-header-appearance--sticky qodef-mobile-header--standard qodef-drop-down-second--full-width qodef-drop-down-second--animate-height etchy-core-1.0 etchy-1.0 qodef-header-standard--left qodef-search--covers-header elementor-default elementor-kit-19 elementor-page elementor-page-7" itemscope itemtype="https://schema.org/WebPage">
+		<div id="qodef-page-wrapper" class="">
+			<div id="qodef-top-area">
+		
+							<div class="qodef-widget-holder qodef-top-area-left">
+					<div id="text-2" class="widget widget_text qodef-top-bar-widget">			<div class="textwidget"><p><span style="font-size: 14px; color: #ffffffbf;">call us:</span>   <span style="font-size: 13px;"><strong><a class="qodef-underline-link" style="letter-spacing: 0.3px;" href="tel:1566771244422887">156-677-124-442-2887</a><br />
+</strong></span></p>
+</div>
+		</div>				</div>
+					
+							<div class="qodef-widget-holder qodef-top-area-right">
+					<div id="text-3" class="widget widget_text qodef-top-bar-widget">			<div class="textwidget"><p><span style="font-size: 14px; color: #ffffffbf;">follow us:</span>   <span style="font-size: 13px; letter-spacing: 0.03em;"><strong><a class="qodef-underline-link" href="https://www.facebook.com/QodeInteractive/" target="_blank" rel="noopener noreferrer">FB.</a>   <a class="qodef-underline-link" href="https://twitter.com/QodeInteractive" target="_blank" rel="noopener noreferrer">TW.</a>   <a class="qodef-underline-link" href="https://www.instagram.com/qodeinteractive/" target="_blank" rel="noopener noreferrer">IG.</a></strong></span></p>
+</div>
+		</div>				</div>
+					
+			</div>
+<header id="qodef-page-header">
+		<div id="qodef-page-header-inner" >
+		<a itemprop="url" class="qodef-header-logo-link qodef-height--set" href="index.html" style="height:25px" rel="home">
+	<img width="180" height="50" src="wp-content/uploads/2020/06/logo_dark-1.png" class="qodef-header-logo-image qodef--main" alt="logo main" itemprop="image" />	<img width="180" height="50" src="wp-content/uploads/2020/06/logo_dark-1.png" class="qodef-header-logo-image qodef--dark" alt="logo dark" itemprop="image" />	<img width="180" height="50" src="wp-content/uploads/2020/06/logo_light-1.png" class="qodef-header-logo-image qodef--light" alt="logo light" itemprop="image" /></a>	<nav class="qodef-header-navigation" role="navigation" aria-label="Top Menu">
+		<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-9 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">HOME</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-15"><a href="index.html"><span class="qodef-menu-item-text">Main Home</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063"><a href="print-shop/index.html"><span class="qodef-menu-item-text">Print Shop</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335"><a href="print-studio/index.html"><span class="qodef-menu-item-text">Print Studio</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2973"><a target="_blank" href="landing/index.html"><span class="qodef-menu-item-text">Landing</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">PAGES</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1956"><a href="about-us/index.html"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2049"><a href="our-services/index.html"><span class="qodef-menu-item-text">Our Services</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1495"><a href="our-team/index.html"><span class="qodef-menu-item-text">Our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1715"><a href="pricing-plans/index.html"><span class="qodef-menu-item-text">Pricing Plans</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1541"><a href="get-in-touch/index.html"><span class="qodef-menu-item-text">Get In Touch</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1955"><a href="contact-us/index.html"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2870"><a href="coming-soon/index.html"><span class="qodef-menu-item-text">Coming Soon</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2099"><a href="404-error-page.html"><span class="qodef-menu-item-text">404 Error page</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">SHOP</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="etchy-shop/index.html"><span class="qodef-menu-item-text">Product List</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-329"><a href="product/billboard/index.html"><span class="qodef-menu-item-text">Product Single</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-342"><a href="#"><span class="qodef-menu-item-text">Shop Layouts</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="3-columns/index.html"><span class="qodef-menu-item-text">Three Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="4-columns/index.html"><span class="qodef-menu-item-text">Four Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="5-columns-wide/index.html"><span class="qodef-menu-item-text">Five Columns wide</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-330"><a href="#"><span class="qodef-menu-item-text">Shop Pages</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="my-account/index.html"><span class="qodef-menu-item-text">My Account</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="cart/index.html"><span class="qodef-menu-item-text">Cart</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="checkout/index.html"><span class="qodef-menu-item-text">Checkout</span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">PORTFOLIO</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-720"><a href="#"><span class="qodef-menu-item-text">List Types</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="standard/index.html"><span class="qodef-menu-item-text">Standard</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2258"><a href="gallery/index.html"><span class="qodef-menu-item-text">Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2257"><a href="gallery-joined/index.html"><span class="qodef-menu-item-text">Gallery Joined</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2360"><a href="masonry/index.html"><span class="qodef-menu-item-text">Masonry</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-721"><a href="#"><span class="qodef-menu-item-text">Layouts</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2408"><a href="two-columns/index.html"><span class="qodef-menu-item-text">Two Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2407"><a href="three-columns/index.html"><span class="qodef-menu-item-text">Three Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4901"><a href="four-columns/index.html"><span class="qodef-menu-item-text">Four Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2745"><a href="four-columns-wide/index.html"><span class="qodef-menu-item-text">Four Columns Wide</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-499"><a href="#"><span class="qodef-menu-item-text">Single Types</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-503"><a href="portfolio-item/big-gallery/index.html"><span class="qodef-menu-item-text">Big Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-504"><a href="portfolio-item/small-gallery/index.html"><span class="qodef-menu-item-text">Small Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-505"><a href="portfolio-item/big-images/index.html"><span class="qodef-menu-item-text">Big Images</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-506"><a href="portfolio-item/small-images/index.html"><span class="qodef-menu-item-text">Small Images</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-501"><a href="portfolio-item/big-masonry/index.html"><span class="qodef-menu-item-text">Big Masonry</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-827"><a href="portfolio-item/small-masonry/index.html"><span class="qodef-menu-item-text">Small Masonry</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-502"><a href="portfolio-item/slider/index.html"><span class="qodef-menu-item-text">Slider</span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">BLOG</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1143"><a href="right-sidebar/index.html"><span class="qodef-menu-item-text">Right Sidebar</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1142"><a href="left-sidebar/index.html"><span class="qodef-menu-item-text">Left Sidebar</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="no-sidebar/index.html"><span class="qodef-menu-item-text">No Sidebar</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-877"><a href="#"><span class="qodef-menu-item-text">Single Types</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-876"><a href="print-is-really-not-dead/index.html"><span class="qodef-menu-item-text">Standard</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1061"><a href="the-modern-rules-of-print/index.html"><span class="qodef-menu-item-text">Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1062"><a href="this-story-behind-print/index.html"><span class="qodef-menu-item-text">Quote</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1060"><a href="the-hidden-agenda-of-digital/index.html"><span class="qodef-menu-item-text">Link</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1084"><a href="the-miracle-of-color/index.html"><span class="qodef-menu-item-text">Audio</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1083"><a href="cmyk-color-palette/index.html"><span class="qodef-menu-item-text">Video</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1082"><a href="one-word-print/index.html"><span class="qodef-menu-item-text">No Sidebar</span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+</ul>	</nav>
+	<div class="qodef-widget-holder">
+		<div id="etchy_core_search_opener-3" class="widget widget_etchy_core_search_opener qodef-header-widget-area-one" data-area="header-widget-one"><a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--icon-pack qodef-search-opener"  >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-icon-elegant-icons icon_search" ></span>	</span>
+		<span class="qodef-search-opener-text">Search</span></a></div><div id="etchy_core_woo_dropdown_cart-3" class="widget widget_etchy_core_woo_dropdown_cart qodef-header-widget-area-one" data-area="header-widget-one">			<div class="qodef-woo-dropdown-cart qodef-m" style="padding: 0px 0px 0px 10px">
+				<div class="qodef-woo-dropdown-cart-inner qodef-m-inner">
+					<a itemprop="url" class="qodef-m-opener" href="cart/index.html">
+    <span class="qodef-m-opener-text">Cart</span>
+	<span class="qodef-m-opener-count">(0)</span>
+</a><div class="qodef-m-dropdown">
+	<div class="qodef-m-dropdown-inner">
+		<p class="qodef-m-posts-not-found qodef-grid-item">No products in the cart.</p>	</div>
+</div>				</div>
+			</div>
+			</div>	</div>
+	</div>
+	<div class="qodef-header-sticky">
+    <div class="qodef-header-sticky-inner ">
+		<a itemprop="url" class="qodef-header-logo-link qodef-height--set" href="index.html" style="height:25px" rel="home">
+	<img width="180" height="50" src="wp-content/uploads/2020/06/logo_dark-1.png" class="qodef-header-logo-image qodef--sticky" alt="logo sticky" itemprop="image" /></a>	<nav class="qodef-header-navigation" role="navigation" aria-label="Top Menu">
+		<ul id="menu-main-menu-2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-9 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">HOME</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-15"><a href="index.html"><span class="qodef-menu-item-text">Main Home</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063"><a href="print-shop/index.html"><span class="qodef-menu-item-text">Print Shop</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335"><a href="print-studio/index.html"><span class="qodef-menu-item-text">Print Studio</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2973"><a target="_blank" href="landing/index.html"><span class="qodef-menu-item-text">Landing</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">PAGES</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1956"><a href="about-us/index.html"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2049"><a href="our-services/index.html"><span class="qodef-menu-item-text">Our Services</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1495"><a href="our-team/index.html"><span class="qodef-menu-item-text">Our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1715"><a href="pricing-plans/index.html"><span class="qodef-menu-item-text">Pricing Plans</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1541"><a href="get-in-touch/index.html"><span class="qodef-menu-item-text">Get In Touch</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1955"><a href="contact-us/index.html"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2870"><a href="coming-soon/index.html"><span class="qodef-menu-item-text">Coming Soon</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2099"><a href="404-error-page.html"><span class="qodef-menu-item-text">404 Error page</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">SHOP</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="etchy-shop/index.html"><span class="qodef-menu-item-text">Product List</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-329"><a href="product/billboard/index.html"><span class="qodef-menu-item-text">Product Single</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-342"><a href="#"><span class="qodef-menu-item-text">Shop Layouts</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="3-columns/index.html"><span class="qodef-menu-item-text">Three Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="4-columns/index.html"><span class="qodef-menu-item-text">Four Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="5-columns-wide/index.html"><span class="qodef-menu-item-text">Five Columns wide</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-330"><a href="#"><span class="qodef-menu-item-text">Shop Pages</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="my-account/index.html"><span class="qodef-menu-item-text">My Account</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="cart/index.html"><span class="qodef-menu-item-text">Cart</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="checkout/index.html"><span class="qodef-menu-item-text">Checkout</span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">PORTFOLIO</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-720"><a href="#"><span class="qodef-menu-item-text">List Types</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="standard/index.html"><span class="qodef-menu-item-text">Standard</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2258"><a href="gallery/index.html"><span class="qodef-menu-item-text">Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2257"><a href="gallery-joined/index.html"><span class="qodef-menu-item-text">Gallery Joined</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2360"><a href="masonry/index.html"><span class="qodef-menu-item-text">Masonry</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-721"><a href="#"><span class="qodef-menu-item-text">Layouts</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2408"><a href="two-columns/index.html"><span class="qodef-menu-item-text">Two Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2407"><a href="three-columns/index.html"><span class="qodef-menu-item-text">Three Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4901"><a href="four-columns/index.html"><span class="qodef-menu-item-text">Four Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2745"><a href="four-columns-wide/index.html"><span class="qodef-menu-item-text">Four Columns Wide</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-499"><a href="#"><span class="qodef-menu-item-text">Single Types</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-503"><a href="portfolio-item/big-gallery/index.html"><span class="qodef-menu-item-text">Big Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-504"><a href="portfolio-item/small-gallery/index.html"><span class="qodef-menu-item-text">Small Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-505"><a href="portfolio-item/big-images/index.html"><span class="qodef-menu-item-text">Big Images</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-506"><a href="portfolio-item/small-images/index.html"><span class="qodef-menu-item-text">Small Images</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-501"><a href="portfolio-item/big-masonry/index.html"><span class="qodef-menu-item-text">Big Masonry</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-827"><a href="portfolio-item/small-masonry/index.html"><span class="qodef-menu-item-text">Small Masonry</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-502"><a href="portfolio-item/slider/index.html"><span class="qodef-menu-item-text">Slider</span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">BLOG</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1143"><a href="right-sidebar/index.html"><span class="qodef-menu-item-text">Right Sidebar</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1142"><a href="left-sidebar/index.html"><span class="qodef-menu-item-text">Left Sidebar</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="no-sidebar/index.html"><span class="qodef-menu-item-text">No Sidebar</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-877"><a href="#"><span class="qodef-menu-item-text">Single Types</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-876"><a href="print-is-really-not-dead/index.html"><span class="qodef-menu-item-text">Standard</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1061"><a href="the-modern-rules-of-print/index.html"><span class="qodef-menu-item-text">Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1062"><a href="this-story-behind-print/index.html"><span class="qodef-menu-item-text">Quote</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1060"><a href="the-hidden-agenda-of-digital/index.html"><span class="qodef-menu-item-text">Link</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1084"><a href="the-miracle-of-color/index.html"><span class="qodef-menu-item-text">Audio</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1083"><a href="cmyk-color-palette/index.html"><span class="qodef-menu-item-text">Video</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1082"><a href="one-word-print/index.html"><span class="qodef-menu-item-text">No Sidebar</span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+</ul>	</nav>
+	    <div class="qodef-widget-holder">
+		    <div id="etchy_core_search_opener-4" class="widget widget_etchy_core_search_opener qodef-sticky-right"><a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--icon-pack qodef-search-opener"  >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-icon-elegant-icons icon_search" ></span>	</span>
+		<span class="qodef-search-opener-text">Search</span></a></div>	    </div>
+	    <form action="https://etchy.qodeinteractive.com/" class="qodef-search-cover-form" method="get">
+	<div class="qodef-m-inner">
+		<input type="text" placeholder="Type here..." name="s" class="qodef-m-form-field" autocomplete="off" required/>
+		<a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--icon-pack qodef-m-close"  >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-icon-elegant-icons icon_close" ></span>	</span>
+		</a>	</div>
+</form>    </div>
+</div><form action="https://etchy.qodeinteractive.com/" class="qodef-search-cover-form" method="get">
+	<div class="qodef-m-inner">
+		<input type="text" placeholder="Type here..." name="s" class="qodef-m-form-field" autocomplete="off" required/>
+		<a href="javascript:void(0)"  class="qodef-opener-icon qodef-m qodef-source--icon-pack qodef-m-close"  >
+	<span class="qodef-m-icon qodef--open">
+		<span class="qodef-icon-elegant-icons icon_close" ></span>	</span>
+		</a>	</div>
+</form></header><header id="qodef-page-mobile-header">
+		<div id="qodef-page-mobile-header-inner">
+		<a itemprop="url" class="qodef-mobile-header-logo-link" href="index.html" style="height:25px" rel="home">
+	<img width="180" height="50" src="wp-content/uploads/2020/06/logo_dark-1.png" class="qodef-header-logo-image qodef--main" alt="logo main" itemprop="image" />	<img width="180" height="50" src="wp-content/uploads/2020/06/logo_light-1.png" class="qodef-header-logo-image qodef--dark" alt="logo dark" itemprop="image" /><img width="180" height="50" src="wp-content/uploads/2020/06/logo_light-1.png" class="qodef-header-logo-image qodef--light" alt="logo light" itemprop="image" /></a><a class="qodef-mobile-header-opener" href="#"><span class="qodef-icon-font-awesome fa fa-bars" ></span></a>	<nav class="qodef-mobile-header-navigation" role="navigation" aria-label="Mobile Menu">
+		<ul id="menu-main-menu-4" class="qodef-content-grid"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-9 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">HOME</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-15"><a href="index.html"><span class="qodef-menu-item-text">Main Home</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1063"><a href="print-shop/index.html"><span class="qodef-menu-item-text">Print Shop</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335"><a href="print-studio/index.html"><span class="qodef-menu-item-text">Print Studio</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2973"><a target="_blank" href="landing/index.html"><span class="qodef-menu-item-text">Landing</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">PAGES</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1956"><a href="about-us/index.html"><span class="qodef-menu-item-text">About Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2049"><a href="our-services/index.html"><span class="qodef-menu-item-text">Our Services</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1495"><a href="our-team/index.html"><span class="qodef-menu-item-text">Our Team</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1715"><a href="pricing-plans/index.html"><span class="qodef-menu-item-text">Pricing Plans</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1541"><a href="get-in-touch/index.html"><span class="qodef-menu-item-text">Get In Touch</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1955"><a href="contact-us/index.html"><span class="qodef-menu-item-text">Contact Us</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2870"><a href="coming-soon/index.html"><span class="qodef-menu-item-text">Coming Soon</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2099"><a href="404-error-page.html"><span class="qodef-menu-item-text">404 Error page</span></a></li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">SHOP</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="etchy-shop/index.html"><span class="qodef-menu-item-text">Product List</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-329"><a href="product/billboard/index.html"><span class="qodef-menu-item-text">Product Single</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-342"><a href="#"><span class="qodef-menu-item-text">Shop Layouts</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376"><a href="3-columns/index.html"><span class="qodef-menu-item-text">Three Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><a href="4-columns/index.html"><span class="qodef-menu-item-text">Four Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><a href="5-columns-wide/index.html"><span class="qodef-menu-item-text">Five Columns wide</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-330"><a href="#"><span class="qodef-menu-item-text">Shop Pages</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="my-account/index.html"><span class="qodef-menu-item-text">My Account</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="cart/index.html"><span class="qodef-menu-item-text">Cart</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="checkout/index.html"><span class="qodef-menu-item-text">Checkout</span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">PORTFOLIO</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-720"><a href="#"><span class="qodef-menu-item-text">List Types</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2259"><a href="standard/index.html"><span class="qodef-menu-item-text">Standard</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2258"><a href="gallery/index.html"><span class="qodef-menu-item-text">Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2257"><a href="gallery-joined/index.html"><span class="qodef-menu-item-text">Gallery Joined</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2360"><a href="masonry/index.html"><span class="qodef-menu-item-text">Masonry</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-721"><a href="#"><span class="qodef-menu-item-text">Layouts</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2408"><a href="two-columns/index.html"><span class="qodef-menu-item-text">Two Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2407"><a href="three-columns/index.html"><span class="qodef-menu-item-text">Three Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4901"><a href="four-columns/index.html"><span class="qodef-menu-item-text">Four Columns</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2745"><a href="four-columns-wide/index.html"><span class="qodef-menu-item-text">Four Columns Wide</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-499"><a href="#"><span class="qodef-menu-item-text">Single Types</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-503"><a href="portfolio-item/big-gallery/index.html"><span class="qodef-menu-item-text">Big Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-504"><a href="portfolio-item/small-gallery/index.html"><span class="qodef-menu-item-text">Small Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-505"><a href="portfolio-item/big-images/index.html"><span class="qodef-menu-item-text">Big Images</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-506"><a href="portfolio-item/small-images/index.html"><span class="qodef-menu-item-text">Small Images</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-501"><a href="portfolio-item/big-masonry/index.html"><span class="qodef-menu-item-text">Big Masonry</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-827"><a href="portfolio-item/small-masonry/index.html"><span class="qodef-menu-item-text">Small Masonry</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-portfolio-item menu-item-502"><a href="portfolio-item/slider/index.html"><span class="qodef-menu-item-text">Slider</span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13 qodef-menu-item--narrow"><a href="#"><span class="qodef-menu-item-text">BLOG</span></a>
+<div class="qodef-drop-down-second"><div class="qodef-drop-down-second-inner"><ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1143"><a href="right-sidebar/index.html"><span class="qodef-menu-item-text">Right Sidebar</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1142"><a href="left-sidebar/index.html"><span class="qodef-menu-item-text">Left Sidebar</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="no-sidebar/index.html"><span class="qodef-menu-item-text">No Sidebar</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-877"><a href="#"><span class="qodef-menu-item-text">Single Types</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-876"><a href="print-is-really-not-dead/index.html"><span class="qodef-menu-item-text">Standard</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1061"><a href="the-modern-rules-of-print/index.html"><span class="qodef-menu-item-text">Gallery</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1062"><a href="this-story-behind-print/index.html"><span class="qodef-menu-item-text">Quote</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1060"><a href="the-hidden-agenda-of-digital/index.html"><span class="qodef-menu-item-text">Link</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1084"><a href="the-miracle-of-color/index.html"><span class="qodef-menu-item-text">Audio</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1083"><a href="cmyk-color-palette/index.html"><span class="qodef-menu-item-text">Video</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1082"><a href="one-word-print/index.html"><span class="qodef-menu-item-text">No Sidebar</span></a></li>
+	</ul>
+</li>
+</ul></div></div>
+</li>
+</ul>	</nav>
+	</div>
+	</header>		<div id="qodef-page-outer">
+						<div id="qodef-page-inner" class="qodef-content-full-width"><main id="qodef-page-content" class="qodef-grid qodef-layout--template ">
+	<div class="qodef-grid-inner clear">
+	
+		<div class="qodef-grid-item qodef-page-content-section qodef-col--12">
+			<div data-elementor-type="wp-page" data-elementor-id="7" class="elementor elementor-7" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-f903d65 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no elementor-section elementor-top-section" data-id="f903d65" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b752975 elementor-column elementor-col-100 elementor-top-column" data-id="b752975" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1c8afc2 elementor-widget elementor-widget-slider_revolution" data-id="1c8afc2" data-element_type="widget" data-widget_type="slider_revolution.default">
+				<div class="elementor-widget-container">
+			
+		<div class="wp-block-themepunch-revslider">
+			<!-- START Main home REVOLUTION SLIDER 6.2.15 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;background-image:url({%static './wp-content/uploads/2020/06/h1-rev-img-1.jpg'%});background-repeat:no-repeat;background-size:cover;background-position:center center;">
+				<rs-module id="rev_slider_1_1" style="" data-version="6.2.15">
+					<rs-slides>
+						<rs-slide data-key="rs-1" data-title="Slide" data-thumb="//{%static './wp-content/uploads/2020/06/h1-rev-img-1-50x100.jpg'%}" data-anim="ei:power4.inOut;eo:d;s:d;r:0;t:fade;sl:d;">
+							<img src="{%static './wp-content/uploads/2020/06/h1-rev-img-1.jpg'%}" alt="a" title="h1-rev-img-1" width="1920" height="713" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+						<rs-slide data-key="rs-2" data-title="Slide" data-thumb="//{%static './wp-content/uploads/2020/06/h1-rev-img-3-50x100.jpg'%}" data-anim="ei:power4.inOut;eo:d;s:d;r:0;t:fade;sl:d;">
+							<img src="{%static './wp-content/uploads/2020/06/h1-rev-img-3.jpg'%}" alt="a" title="h1-rev-img-3" width="1920" height="713" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+						<rs-slide data-key="rs-3" data-title="Slide" data-thumb="//{%static './wp-content/uploads/2020/06/h1-rev-img-4-50x100.jpg'%}" data-anim="ei:power4.inOut;eo:d;s:d;r:0;t:fade;sl:d;">
+							<img src="{%static './wp-content/uploads/2020/06/h1-rev-img-4.jpg'%}" alt="a" title="h1-rev-img-4" width="1920" height="713" class="rev-slidebg" data-no-retina>
+<!---->						</rs-slide>
+					</rs-slides>
+					<rs-static-layers><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-3" 
+								class="rs-layer-static"
+								data-type="image"
+								data-xy="x:c;y:m;yo:-73px,-73px,-73px,-149px;"
+								data-text="w:normal;"
+								data-dim="w:620px,620px,620px,300px;h:162px,162px,162px,78px;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-onslides="s:1;"
+								data-frame_0="y:50;"
+								data-frame_1="st:50;sp:800;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;"
+							><img src="{%static './wp-content/uploads/2020/06/h1-rev-img-2.png'%}" alt="a" width="620" height="162" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-4" 
+								class="rs-layer-static"
+								data-type="text"
+								data-xy="x:c;y:m;yo:49px,49px,49px,-27px;"
+								data-text="w:normal;s:21;l:29;a:center;"
+								data-dim="w:655px,655px,655px,312px;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-onslides="s:1;"
+								data-frame_0="y:50;"
+								data-frame_1="st:200;sp:800;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:6;font-family:Arimo;"
+							>Easily create a pixel-perfect online presentation for your prints and elevate your business to the next level today! 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-5" 
+								class="rs-layer-static"
+								data-type="text"
+								data-xy="x:c;xo:-78px,-78px,-78px,0;y:m;yo:127px,127px,127px,91px;"
+								data-text="w:normal;a:center;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-onslides="s:1;"
+								data-frame_0="y:50;"
+								data-frame_1="st:350;sp:800;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:7;font-family:Roboto;"
+							> <span class='qodef-wave-btn-holder'>
+	<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--filled  qodef-html--link qodef-btn-wave-hover" href="https://1.envato.market/c/1310726/275988/4415?u=https%3A%2F%2Fthemeforest.net%2Fcheckout%2Ffrom_item%2F27540062%3Flicense%3Dregular" target="_blank" data-hover-background-color="#171717" >
+		<span class="qodef-m-text">Get etchy</span>
+					<span class="qodef-btn-masked" style="background-color: #171717">
+				<span class="qodef-m-text">Get etchy</span>
+			</span>
+			</a>
+	</span>
+ 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-1-slide-1-layer-6" 
+								class="rs-layer-static"
+								data-type="text"
+								data-xy="x:c;xo:83px,83px,83px,0;y:m;yo:127px,127px,127px,151px;"
+								data-text="w:normal;a:center;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-onslides="s:1;"
+								data-frame_0="y:50;"
+								data-frame_1="st:400;sp:800;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:5;font-family:Roboto;"
+							>	<span class='qodef-wave-btn-holder'>
+	<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--outlined  qodef-html--link qodef-btn-wave-hover" href="etchy-shop/index.html" target="_self" data-hover-color="#000000" data-hover-background-color="#FFFFFF" data-hover-border-color="#000000" style="color: #FFFFFF;border-color: #FFFFFF">
+		<span class="qodef-m-text">See more</span>
+					<span class="qodef-btn-masked" style="background-color: #FFFFFF;color: #000000">
+				<span class="qodef-m-text">See more</span>
+			</span>
+			</a>
+	</span>
+ 
+							</rs-layer><!--
+					--></rs-static-layers>
+				</rs-module>
+				<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1920,1700,1030,680],el:[712,515,700,560],gw:[1400,1100,768,320],gh:[712,515,700,560],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
+					var	revapi1,
+						tpj;
+					jQuery(function() {
+						tpj = jQuery;
+						revapi1 = tpj("#rev_slider_1_1")
+						if(revapi1==undefined || revapi1.revolution == undefined){
+							revslider_showDoubleJqueryError("rev_slider_1_1");
+						}else{
+							revapi1.revolution({
+								sliderLayout:"fullwidth",
+								duration:"2500ms",
+								visibilityLevels:"1920,1700,1030,680",
+								gridwidth:"1400,1100,768,320",
+								gridheight:"712,515,700,560",
+								perspective:600,
+								perspectiveType:"global",
+								editorheight:"712,515,700,560",
+								responsiveLevels:"1920,1700,1030,680",
+								progressBar:{disableProgressBar:true},
+								navigation: {
+									onHoverStop:false,
+									arrows: {
+										enable:true,
+										style:"etchy-navigation",
+										hide_onmobile:true,
+										hide_under:"680px",
+										left: {
+											v_align:"bottom",
+											h_offset:51,
+											v_offset:51
+										},
+										right: {
+											h_align:"left",
+											v_align:"bottom",
+											h_offset:95,
+											v_offset:51
+										}
+									}
+								},
+								fallbacks: {
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+				</script>
+				<script>
+					var htmlDivCss = unescape("%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows%20%7B%0A%09width%3A%2043px%3B%0A%09height%3A%2043px%3B%0A%20%20%09text-align%3A%20center%3B%0A%20%20%09color%3A%20%230c0c0c%3B%0A%20%20%09background%3A%20%23ffffff%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22linea-arrows-10%22%3B%0A%20%20%09font-size%3A%2030px%3B%0A%20%20%09line-height%3A%2043px%3B%0A%20%20%09color%3A%20inherit%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%27%5Ce03f%27%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce04b%22%3B%0A%7D%0A%0A.qodef-header--light%20%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows%20%7B%0A%09color%3A%20%23fff%3B%0A%20%20%09background%3A%20%23000%3B%0A%7D%0A%0A.qodef-header--dark%20%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows%20%7B%0A%09color%3A%20%23000%3B%0A%20%20%09background%3A%20%23fff%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows.tp-leftarrow%3Abefore%2C%0A%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows.tp-rightarrow%3Abefore%20%7B%0A%20%20%09transition%3A%20.2s%3B%0A%20%20%09transform%3A%20translateX%280px%29%20translateZ%280%29%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows.tp-leftarrow%3Ahover%3Abefore%20%7B%0A%20%20%09transform%3A%20translateX%28-2px%29%3B%0A%20%20%09transition%3A%20.3s%20cubic-bezier%28.61%2C.04%2C0%2C.98%29%20.1s%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.etchy-navigation.tparrows.tp-rightarrow%3Ahover%3Abefore%20%7B%0A%20%20%09transform%3A%20translateX%282px%29%3B%0A%20%20%09transition%3A%20.3s%20cubic-bezier%28.61%2C.04%2C0%2C.98%29%20.1s%3B%0A%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+				<script>
+					var htmlDivCss = unescape("%23rev_slider_1_1%5Bdata-slideactive%3D%22rs-1%22%5D%20.etchy-navigation.tparrows%7B%0Acolor%3A%20%230c0c0c%20%21important%3B%0Abackground%3A%20%23ffffff%20%21important%3B%0A%7D%0A%0A%23rev_slider_1_1%5Bdata-slideactive%3D%22rs-2%22%5D%20.etchy-navigation.tparrows%7B%0Acolor%3A%20%230c0c0c%20%21important%3B%0A%7D%0A%0A%23rev_slider_1_1%5Bdata-slideactive%3D%22rs-3%22%5D%20.etchy-navigation.tparrows%7B%0Acolor%3A%20%230c0c0c%20%21important%3B%0Abackground%3A%20%23ffffff%20%21important%3B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div>
+
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b8d658b elementor-section-content-middle qodef-elementor-content-grid qodef-row-background-animation elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="b8d658b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-38ef547 elementor-column elementor-col-50 elementor-top-column" data-id="38ef547" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-454ede4 elementor-widget elementor-widget-etchy_core_section_title" data-id="454ede4" data-element_type="widget" data-widget_type="etchy_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  qodef--icon-pack qodef--has-appear">
+		<h2 class="qodef-m-title" >
+					<span class="qodef-m-title-line">New way to print</span> <span class="qodef-m-title-line"> your projects with</span> <span class="qodef-m-title-line"> best <span class="qodef-last-word">results<span class="qodef-m-icon-wrapper"><span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">	            </span></span></span></span>			</h2>
+		</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2c244b4 elementor-widget elementor-widget-etchy_core_button" data-id="2c244b4" data-element_type="widget" data-widget_type="etchy_core_button.default">
+				<div class="elementor-widget-container">
+				<span class='qodef-wave-btn-holder'>
+	<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--outlined  qodef-html--link qodef-btn-wave-hover" href="our-services/index.html" target="_self"  >
+		<span class="qodef-m-text">See more</span>
+					<span class="qodef-btn-masked" >
+				<span class="qodef-m-text">See more</span>
+			</span>
+			</a>
+	</span>
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-e9d51ad elementor-column elementor-col-50 elementor-top-column" data-id="e9d51ad" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-33f8b5e elementor-widget elementor-widget-slider_revolution" data-id="33f8b5e" data-element_type="widget" data-widget_type="slider_revolution.default">
+				<div class="elementor-widget-container">
+			
+		<div class="wp-block-themepunch-revslider">
+			<!-- START Main home  section image REVOLUTION SLIDER 6.2.15 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_5_2_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_5_2" style="" data-version="6.2.15">
+					<rs-slides>
+						<rs-slide data-key="rs-11" data-title="Slide" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;">
+							<img src="{%static './wp-content/plugins/revslider/public/assets/assets/transparent.png'%}" alt="Slide" title="Main Home" class="rev-slidebg" data-no-retina>
+<!--
+							--><rs-layer
+								id="slider-5-slide-11-layer-2" 
+								data-type="image"
+								data-xy="x:c;xo:41px,37px,37px,14px;y:m;yo:10px,14px,8px,2px;"
+								data-text="w:normal;"
+								data-dim="w:436px,317px,357px,240px;h:317px,230px,260px,174px;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:-50;"
+								data-frame_1="st:150;sp:900;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:8;"
+							><img src="{%static './wp-content/uploads/2020/06/h1-rev-section-img1.png'%}" alt="a" width="436" height="317" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-3" 
+								data-type="image"
+								data-xy="x:c;xo:42px,44px,45px,12px;y:m;yo:77px,64px,64px,37px;"
+								data-text="w:normal;"
+								data-dim="w:569px,450px,490px,300px;h:192px,152px,165px,101px;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:250;sp:900;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:9;"
+							><img src="{%static './wp-content/uploads/2020/06/h1-rev-section-img2.png'%}" alt="a" width="569" height="192" data-no-retina> 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-8" 
+								data-type="text"
+								data-color="#0c0c0c"
+								data-xy="x:c;xo:-200px,-142px,-162px,-228px;y:m;yo:-153px,-99px,-124px,-57px;"
+								data-text="w:normal;s:15,15,15,11;l:20;fw:700;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:300;sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:12;font-family:Arimo;text-transform:uppercase;"
+							>Calendar 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-9" 
+								data-type="text"
+								data-color="#0c0c0c"
+								data-xy="x:c;xo:-291px,-228px,-245px,-237px;y:m;yo:61px,60px,53px,-9px;"
+								data-text="w:normal;s:15,15,15,11;l:20;fw:700;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:450;sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:11;font-family:Arimo;text-transform:uppercase;"
+							>Bowl print 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-10" 
+								data-type="text"
+								data-color="#0c0c0c"
+								data-xy="x:c;xo:283px,233px,246px,295px;y:m;yo:-38px,-30px,-39px,28px;"
+								data-text="w:normal;s:15,15,15,11;l:20;fw:700;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:450;sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:10;font-family:Arimo;text-transform:uppercase;"
+							>White mug 
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-12" 
+								data-type="text"
+								data-color="#a3a3a3"
+								data-xy="x:c;xo:-202px,-144px,-164px,-230px;y:m;yo:-132px,-78px,-103px,-43px;"
+								data-text="w:normal;s:15,15,15,11;l:20;td:line-through;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:350;sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:14;font-family:Arimo;text-transform:uppercase;"
+							>24$  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-13" 
+								data-type="text"
+								data-color="#a3a3a3"
+								data-xy="x:c;xo:-171px,-113px,-133px,-208px;y:m;yo:-132px,-78px,-103px,-43px;"
+								data-text="w:normal;s:15,15,15,11;l:20;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:350;sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:13;font-family:Arimo;text-transform:uppercase;"
+							>12$  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-14" 
+								data-type="text"
+								data-color="#a3a3a3"
+								data-xy="x:c;xo:-279px,-216px,-233px,-231px;y:m;yo:82px,81px,74px,5px;"
+								data-text="w:normal;s:15,15,15,11;l:20;td:line-through;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:500;sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:15;font-family:Arimo;text-transform:uppercase;"
+							>18$  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-15" 
+								data-type="text"
+								data-color="#a3a3a3"
+								data-xy="x:c;xo:-252px,-189px,-206px,-211px;y:m;yo:82px,81px,74px,5px;"
+								data-text="w:normal;s:15,15,15,11;l:20;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:500;sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:16;font-family:Arimo;text-transform:uppercase;"
+							>9$  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-16" 
+								data-type="text"
+								data-color="#a3a3a3"
+								data-xy="x:c;xo:252px,202px,215px,275px;y:m;yo:-17px,-9px,-18px,42px;"
+								data-text="w:normal;s:15,15,15,11;l:20;td:line-through;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:500;sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:17;font-family:Arimo;text-transform:uppercase;"
+							>18$  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-17" 
+								data-type="text"
+								data-color="#a3a3a3"
+								data-xy="x:c;xo:279px,229px,242px,295px;y:m;yo:-17px,-9px,-18px,42px;"
+								data-text="w:normal;s:15,15,15,11;l:20;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_0="y:50;"
+								data-frame_1="st:500;sp:1000;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:18;font-family:Arimo;text-transform:uppercase;"
+							>9$  
+							</rs-layer><!--
+
+							--><rs-layer
+								id="slider-5-slide-11-layer-18" 
+								data-type="text"
+								data-xy="x:c;xo:122px,96px,106px,522px;y:m;yo:-145px,-101px,-114px,1px;"
+								data-text="w:normal;"
+								data-basealign="slide"
+								data-rsp_o="off"
+								data-rsp_bd="off"
+								data-frame_1="sp:500;"
+								data-frame_999="o:0;st:w;"
+								style="z-index:19;font-family:Roboto;"
+							><div class="qodef-shortcode qodef-m  qodef-stamp qodef-hide-on--480 "  style="color: #000000;font-size: 22px;color: #000000;width: 150px;height: 150px" data-appearing-delay="0">
+	<div class="qodef-m-text" data-count="24"><span class="qodef-m-character qodef-main-class">P</span> <span class="qodef-m-character qodef-main-class">A</span> <span class="qodef-m-character qodef-main-class">P</span> <span class="qodef-m-character qodef-main-class">Y</span> <span class="qodef-m-character qodef-second-class">R</span> <span class="qodef-m-character qodef-second-class">U</span> <span class="qodef-m-character qodef-second-class">S</span> <span class="qodef-m-character qodef-second-class">Y</span> <span class="qodef-m-character qodef-main-class">S</span> <span class="qodef-m-character qodef-main-class">A</span> <span class="qodef-m-character qodef-main-class">L</span> <span class="qodef-m-character qodef-main-class">E</span> <span class="qodef-m-character qodef-second-class">S</span> <span class="qodef-m-character qodef-second-class">A</span> <span class="qodef-m-character qodef-second-class">L</span> <span class="qodef-m-character qodef-second-class">E</span> <span class="qodef-m-character qodef-main-class">S</span> <span class="qodef-m-character qodef-main-class">A</span> <span class="qodef-m-character qodef-main-class">L</span> <span class="qodef-m-character qodef-main-class">E</span> <span class="qodef-m-character qodef-second-class">S</span> <span class="qodef-m-character qodef-second-class">A</span> <span class="qodef-m-character qodef-second-class">L</span> <span class="qodef-m-character qodef-second-class">E</span></div>
+	</div> 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_5_2',rl:[1920,1700,1030,680],el:[500,400,450,190],gw:[700,600,680,300],gh:[500,400,450,190],type:'hero',justify:'',layout:'fullwidth',mh:"0"});
+					var	revapi5,
+						tpj;
+					jQuery(function() {
+						tpj = jQuery;
+						revapi5 = tpj("#rev_slider_5_2")
+						if(revapi5==undefined || revapi5.revolution == undefined){
+							revslider_showDoubleJqueryError("rev_slider_5_2");
+						}else{
+							revapi5.revolution({
+								sliderType:"hero",
+								duration:"3500ms",
+								visibilityLevels:"1920,1700,1030,680",
+								gridwidth:"700,600,680,300",
+								gridheight:"500,400,450,190",
+								perspective:600,
+								perspectiveType:"global",
+								editorheight:"500,400,450,190",
+								responsiveLevels:"1920,1700,1030,680",
+								progressBar:{disableProgressBar:true},
+								navigation: {
+									onHoverStop:false
+								},
+								fallbacks: {
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div>
+
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-86bb2a9 qodef-elementor-content-grid elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="86bb2a9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-fc8f3a7 elementor-column elementor-col-25 elementor-top-column" data-id="fc8f3a7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b7a3b6e elementor-widget elementor-widget-etchy_core_icon_with_text" data-id="b7a3b6e" data-element_type="widget" data-widget_type="etchy_core_icon_with_text.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--before-content qodef--custom-icon qodef--has-custom-appear">
+	<div class="qodef-m-icon-wrapper">
+					<img width="29" height="29" src="{%static './wp-content/uploads/2020/05/h1-icon-img-1.png'%}" class="attachment-full size-full" alt="a" />		</div>
+	<div class="qodef-m-content">
+			<h5 class="qodef-m-title" >
+					<span class="qodef-m-title-text">Recycled</span>
+			</h5>
+			<p class="qodef-m-text" >Lorem ipsum dolor sit amet adipiscing, eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</p>
+	</div>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-559aa45 elementor-column elementor-col-25 elementor-top-column" data-id="559aa45" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0d95708 elementor-widget elementor-widget-etchy_core_icon_with_text" data-id="0d95708" data-element_type="widget" data-widget_type="etchy_core_icon_with_text.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--before-content qodef--custom-icon qodef--has-custom-appear">
+	<div class="qodef-m-icon-wrapper">
+					<img width="29" height="29" src="{%static './wp-content/uploads/2020/05/h1-icon-img-2.png'%}" class="attachment-full size-full" alt="a" />		</div>
+	<div class="qodef-m-content">
+			<h5 class="qodef-m-title" >
+					<span class="qodef-m-title-text">Cmyk</span>
+			</h5>
+			<p class="qodef-m-text" >Lorem ipsum dolor sit amet adipiscing, eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</p>
+	</div>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-d6cac4f elementor-column elementor-col-25 elementor-top-column" data-id="d6cac4f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-88eba80 elementor-widget elementor-widget-etchy_core_icon_with_text" data-id="88eba80" data-element_type="widget" data-widget_type="etchy_core_icon_with_text.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--before-content qodef--custom-icon qodef--has-custom-appear">
+	<div class="qodef-m-icon-wrapper">
+					<img width="29" height="29" src="{%static './wp-content/uploads/2020/05/h1-icon-img-3.png'%}" class="attachment-full size-full" alt="a" />		</div>
+	<div class="qodef-m-content">
+			<h5 class="qodef-m-title" >
+					<span class="qodef-m-title-text">Branding</span>
+			</h5>
+			<p class="qodef-m-text" >Lorem ipsum dolor sit amet adipiscing, eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</p>
+	</div>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1632b12 elementor-column elementor-col-25 elementor-top-column" data-id="1632b12" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d2b3bb0 elementor-widget elementor-widget-etchy_core_icon_with_text" data-id="d2b3bb0" data-element_type="widget" data-widget_type="etchy_core_icon_with_text.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--before-content qodef--custom-icon qodef--has-custom-appear">
+	<div class="qodef-m-icon-wrapper">
+					<img width="29" height="29" src="{%static './wp-content/uploads/2020/05/h1-icon-img-4.png'%}" class="attachment-full size-full" alt="a" />		</div>
+	<div class="qodef-m-content">
+			<h5 class="qodef-m-title" >
+					<span class="qodef-m-title-text">Printing</span>
+			</h5>
+			<p class="qodef-m-text" >Lorem ipsum dolor sit amet adipiscing, eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</p>
+	</div>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-a83ee51 qodef-elementor-content-grid elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="a83ee51" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2914cc8 elementor-column elementor-col-25 elementor-top-column" data-id="2914cc8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c0b6508 elementor-widget elementor-widget-etchy_core_icon_with_text" data-id="c0b6508" data-element_type="widget" data-widget_type="etchy_core_icon_with_text.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--before-content qodef--custom-icon qodef--has-custom-appear">
+	<div class="qodef-m-icon-wrapper">
+					<img width="29" height="29" src="{%static './wp-content/uploads/2020/05/h1-icon-img-5.png'%}" class="attachment-full size-full" alt="a" />		</div>
+	<div class="qodef-m-content">
+			<h5 class="qodef-m-title" >
+					<span class="qodef-m-title-text">Silk screen</span>
+			</h5>
+			<p class="qodef-m-text" >Lorem ipsum dolor sit amet adipiscing, eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</p>
+	</div>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-5f02c96 elementor-column elementor-col-25 elementor-top-column" data-id="5f02c96" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-61d21ff elementor-widget elementor-widget-etchy_core_icon_with_text" data-id="61d21ff" data-element_type="widget" data-widget_type="etchy_core_icon_with_text.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--before-content qodef--custom-icon qodef--has-custom-appear">
+	<div class="qodef-m-icon-wrapper">
+					<img width="29" height="29" src="{%static './wp-content/uploads/2020/05/h1-icon-img-6.png'%}" class="attachment-full size-full" alt="a" />		</div>
+	<div class="qodef-m-content">
+			<h5 class="qodef-m-title" >
+					<span class="qodef-m-title-text">Booklet</span>
+			</h5>
+			<p class="qodef-m-text" >Lorem ipsum dolor sit amet adipiscing, eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</p>
+	</div>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2b759a2 elementor-column elementor-col-25 elementor-top-column" data-id="2b759a2" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-74f02a7 elementor-widget elementor-widget-etchy_core_icon_with_text" data-id="74f02a7" data-element_type="widget" data-widget_type="etchy_core_icon_with_text.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--before-content qodef--custom-icon qodef--has-custom-appear">
+	<div class="qodef-m-icon-wrapper">
+					<img width="29" height="29" src="{%static './wp-content/uploads/2020/05/h1-icon-img-7.png'%}" class="attachment-full size-full" alt="a" />		</div>
+	<div class="qodef-m-content">
+			<h5 class="qodef-m-title" >
+					<span class="qodef-m-title-text">Design</span>
+			</h5>
+			<p class="qodef-m-text" >Lorem ipsum dolor sit amet adipiscing, eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</p>
+	</div>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-a2f2e1f elementor-column elementor-col-25 elementor-top-column" data-id="a2f2e1f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2bb4e3f elementor-widget elementor-widget-etchy_core_icon_with_text" data-id="2bb4e3f" data-element_type="widget" data-widget_type="etchy_core_icon_with_text.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-icon-with-text qodef-layout--before-content qodef--custom-icon qodef--has-custom-appear">
+	<div class="qodef-m-icon-wrapper">
+					<img width="29" height="29" src="{%static './wp-content/uploads/2020/05/h1-icon-img-8.png'%}" class="attachment-full size-full" alt="a" />		</div>
+	<div class="qodef-m-content">
+			<h5 class="qodef-m-title" >
+					<span class="qodef-m-title-text">Packaging</span>
+			</h5>
+			<p class="qodef-m-text" >Lorem ipsum dolor sit amet adipiscing, eiusmod tempor incididunt labore dolore magna aliqua enim minim veniam.</p>
+	</div>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-310f8fa elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no elementor-section elementor-top-section" data-id="310f8fa" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-a2919c3 elementor-column elementor-col-100 elementor-top-column" data-id="a2919c3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7b15b6d elementor-widget elementor-widget-etchy_core_portfolio_list" data-id="7b15b6d" data-element_type="widget" data-widget_type="etchy_core_portfolio_list.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-portfolio-list qodef-item-layout--info-bottom-left qodef-grid qodef-layout--columns  qodef-gutter--no qodef-col-num--2 qodef-item-layout--info-bottom-left   qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--2 qodef-col-num--1366--2 qodef-col-num--1024--2 qodef-col-num--768--1 qodef-col-num--680--1 qodef-col-num--480--1" data-options="{&quot;plugin&quot;:&quot;etchy_core&quot;,&quot;module&quot;:&quot;post-types\/portfolio\/shortcodes&quot;,&quot;shortcode&quot;:&quot;portfolio-list&quot;,&quot;post_type&quot;:&quot;portfolio-item&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;columns&quot;,&quot;images_proportion&quot;:&quot;full&quot;,&quot;columns&quot;:&quot;2&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;2&quot;,&quot;columns_1366&quot;:&quot;2&quot;,&quot;columns_1024&quot;:&quot;2&quot;,&quot;columns_768&quot;:&quot;1&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;no&quot;,&quot;posts_per_page&quot;:&quot;6&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;portfolio-category&quot;,&quot;tax_slug&quot;:&quot;magazine&quot;,&quot;layout&quot;:&quot;info-bottom-left&quot;,&quot;hover_animation_info-on-hover&quot;:&quot;fade-in&quot;,&quot;title_tag&quot;:&quot;h4&quot;,&quot;custom_padding&quot;:&quot;no&quot;,&quot;featured_images_only&quot;:&quot;no&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;object_class_name&quot;:&quot;EtchyCorePortfolioListShortcode&quot;,&quot;taxonomy_filter&quot;:&quot;portfolio-category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;portfolio-category&quot;,&quot;field&quot;:&quot;slug&quot;,&quot;terms&quot;:&quot;magazine&quot;}]}}">
+		<div class="qodef-grid-inner clear">
+		<article class="qodef-e qodef-grid-item qodef-item--full post-2572 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-magazine portfolio-category-print portfolio-tag-business portfolio-tag-gifts portfolio-tag-logo">
+	<div class="qodef-e-inner" >
+		<div class="qodef-e-image">
+				<div class="qodef-e-media-image">
+		<a itemprop="url" href="portfolio-item/business-card/index.html">
+			<img width="960" height="428" src="{%static './wp-content/uploads/2020/05/h1-port-list-img-1.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-1.jpg 960w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-1-600x268.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-1-300x134.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-1-768x342.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />		</a>
+	</div>
+		</div>
+		<div class="qodef-e-content">
+			<div class="qodef-e-content-inner">
+				<div class="qodef-e-info-category">
+	<a itemprop="url" class="qodef-e-category" href="portfolio-category/magazine/index.html">
+		Magazine</a>, <a itemprop="url" class="qodef-e-category" href="portfolio-category/print/index.html">
+		Print</a></div>
+				<h4 itemprop="name" class="qodef-e-title entry-title" >
+	<a itemprop="url" class="qodef-e-title-link" href="portfolio-item/business-card/index.html">
+		Business card	</a>
+</h4>			</div>
+		</div>
+	</div>
+</article><article class="qodef-e qodef-grid-item qodef-item--full post-2576 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-magazine portfolio-category-print portfolio-tag-advertising portfolio-tag-business">
+	<div class="qodef-e-inner" >
+		<div class="qodef-e-image">
+				<div class="qodef-e-media-image">
+		<a itemprop="url" href="portfolio-item/multicolor-cup/index.html">
+			<img width="960" height="428" src="{%static './wp-content/uploads/2020/05/h1-port-list-img-2.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-2.jpg 960w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-2-600x268.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-2-300x134.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-2-768x342.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />		</a>
+	</div>
+		</div>
+		<div class="qodef-e-content">
+			<div class="qodef-e-content-inner">
+				<div class="qodef-e-info-category">
+	<a itemprop="url" class="qodef-e-category" href="portfolio-category/magazine/index.html">
+		Magazine</a>, <a itemprop="url" class="qodef-e-category" href="portfolio-category/print/index.html">
+		Print</a></div>
+				<h4 itemprop="name" class="qodef-e-title entry-title" >
+	<a itemprop="url" class="qodef-e-title-link" href="portfolio-item/multicolor-cup/index.html">
+		Multicolor cup	</a>
+</h4>			</div>
+		</div>
+	</div>
+</article><article class="qodef-e qodef-grid-item qodef-item--full post-2578 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-magazine portfolio-category-print portfolio-tag-gifts portfolio-tag-logo portfolio-tag-popular">
+	<div class="qodef-e-inner" >
+		<div class="qodef-e-image">
+				<div class="qodef-e-media-image">
+		<a itemprop="url" href="portfolio-item/pouch-packaging/index.html">
+			<img width="960" height="428" src="{%static './wp-content/uploads/2020/05/h1-port-list-img-3.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-3.jpg 960w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-3-600x268.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-3-300x134.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-3-768x342.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />		</a>
+	</div>
+		</div>
+		<div class="qodef-e-content">
+			<div class="qodef-e-content-inner">
+				<div class="qodef-e-info-category">
+	<a itemprop="url" class="qodef-e-category" href="portfolio-category/magazine/index.html">
+		Magazine</a>, <a itemprop="url" class="qodef-e-category" href="portfolio-category/print/index.html">
+		Print</a></div>
+				<h4 itemprop="name" class="qodef-e-title entry-title" >
+	<a itemprop="url" class="qodef-e-title-link" href="portfolio-item/pouch-packaging/index.html">
+		Pouch packaging	</a>
+</h4>			</div>
+		</div>
+	</div>
+</article><article class="qodef-e qodef-grid-item qodef-item--full post-2581 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-magazine portfolio-category-print portfolio-tag-business">
+	<div class="qodef-e-inner" >
+		<div class="qodef-e-image">
+				<div class="qodef-e-media-image">
+		<a itemprop="url" href="portfolio-item/three-boxes/index.html">
+			<img width="960" height="428" src="{%static './wp-content/uploads/2020/05/h1-port-list-img-4.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-4.jpg 960w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-4-600x268.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-4-300x134.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-4-768x342.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />		</a>
+	</div>
+		</div>
+		<div class="qodef-e-content">
+			<div class="qodef-e-content-inner">
+				<div class="qodef-e-info-category">
+	<a itemprop="url" class="qodef-e-category" href="portfolio-category/magazine/index.html">
+		Magazine</a>, <a itemprop="url" class="qodef-e-category" href="portfolio-category/print/index.html">
+		Print</a></div>
+				<h4 itemprop="name" class="qodef-e-title entry-title" >
+	<a itemprop="url" class="qodef-e-title-link" href="portfolio-item/three-boxes/index.html">
+		Three boxes	</a>
+</h4>			</div>
+		</div>
+	</div>
+</article><article class="qodef-e qodef-grid-item qodef-item--full post-2583 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-magazine portfolio-category-print portfolio-tag-advertising portfolio-tag-popular">
+	<div class="qodef-e-inner" >
+		<div class="qodef-e-image">
+				<div class="qodef-e-media-image">
+		<a itemprop="url" href="portfolio-item/street-billboard/index.html">
+			<img width="960" height="428" src="{%static './wp-content/uploads/2020/05/h1-port-list-img-5.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-5.jpg 960w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-5-600x268.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-5-300x134.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-5-768x342.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />		</a>
+	</div>
+		</div>
+		<div class="qodef-e-content">
+			<div class="qodef-e-content-inner">
+				<div class="qodef-e-info-category">
+	<a itemprop="url" class="qodef-e-category" href="portfolio-category/magazine/index.html">
+		Magazine</a>, <a itemprop="url" class="qodef-e-category" href="portfolio-category/print/index.html">
+		Print</a></div>
+				<h4 itemprop="name" class="qodef-e-title entry-title" >
+	<a itemprop="url" class="qodef-e-title-link" href="portfolio-item/street-billboard/index.html">
+		Street billboard	</a>
+</h4>			</div>
+		</div>
+	</div>
+</article><article class="qodef-e qodef-grid-item qodef-item--full post-2585 portfolio-item type-portfolio-item status-publish has-post-thumbnail hentry portfolio-category-magazine portfolio-category-print portfolio-tag-gifts portfolio-tag-popular">
+	<div class="qodef-e-inner" >
+		<div class="qodef-e-image">
+				<div class="qodef-e-media-image">
+		<a itemprop="url" href="portfolio-item/magazine-book/index.html">
+			<img width="960" height="428" src="{%static './wp-content/uploads/2020/05/h1-port-list-img-6.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-6.jpg 960w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-6-600x268.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-6-300x134.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-port-list-img-6-768x342.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" />		</a>
+	</div>
+		</div>
+		<div class="qodef-e-content">
+			<div class="qodef-e-content-inner">
+				<div class="qodef-e-info-category">
+	<a itemprop="url" class="qodef-e-category" href="portfolio-category/magazine/index.html">
+		Magazine</a>, <a itemprop="url" class="qodef-e-category" href="portfolio-category/print/index.html">
+		Print</a></div>
+				<h4 itemprop="name" class="qodef-e-title entry-title" >
+	<a itemprop="url" class="qodef-e-title-link" href="portfolio-item/magazine-book/index.html">
+		Magazine &#038; book	</a>
+</h4>			</div>
+		</div>
+	</div>
+</article>	</div>
+	</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b7707b0 qodef-elementor-content-grid elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="b7707b0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d82d04e elementor-column elementor-col-100 elementor-top-column" data-id="d82d04e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4214a89 elementor-widget elementor-widget-etchy_core_section_title" data-id="4214a89" data-element_type="widget" data-widget_type="etchy_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef--custom-icon qodef--has-appear">
+		<h2 class="qodef-m-title" >
+					<span class="qodef-m-title-line">Latest <span class="qodef-last-word">news<span class="qodef-m-icon-wrapper" style="margin: 8px 0px 0px 0px"><img width="14" height="15" src="{%static './wp-content/uploads/2020/06/h1-title-icon-img-1.png" class="attachment-full size-full" alt="a" /></span></span></span>			</h2>
+		<p class="qodef-m-subtitle" style="margin-top: 5px">Dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore id</p>
+	</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7026443 elementor-widget elementor-widget-etchy_core_blog_list" data-id="7026443" data-element_type="widget" data-widget_type="etchy_core_blog_list.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-blog qodef--list qodef-item-layout--standard qodef-grid qodef-layout--columns  qodef-gutter--large qodef-col-num--3 qodef-item-layout--standard   qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--3 qodef-col-num--1366--3 qodef-col-num--1024--1 qodef-col-num--768--1 qodef-col-num--680--1 qodef-col-num--480--1" data-options="{&quot;plugin&quot;:&quot;etchy_core&quot;,&quot;module&quot;:&quot;blog\/shortcodes&quot;,&quot;shortcode&quot;:&quot;blog-list&quot;,&quot;post_type&quot;:&quot;post&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;columns&quot;,&quot;images_proportion&quot;:&quot;full&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;3&quot;,&quot;columns_1366&quot;:&quot;3&quot;,&quot;columns_1024&quot;:&quot;1&quot;,&quot;columns_768&quot;:&quot;1&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;large&quot;,&quot;posts_per_page&quot;:&quot;3&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;additional_params&quot;:&quot;tax&quot;,&quot;tax&quot;:&quot;category&quot;,&quot;tax_slug&quot;:&quot;print&quot;,&quot;layout&quot;:&quot;standard&quot;,&quot;title_tag&quot;:&quot;h5&quot;,&quot;excerpt_length&quot;:&quot;150&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;enable_category&quot;:&quot;yes&quot;,&quot;enable_excerpt&quot;:&quot;yes&quot;,&quot;enable_button&quot;:&quot;yes&quot;,&quot;enable_share&quot;:&quot;no&quot;,&quot;enable_content&quot;:&quot;yes&quot;,&quot;enable_date&quot;:&quot;yes&quot;,&quot;object_class_name&quot;:&quot;EtchyCoreBlogListShortcode&quot;,&quot;taxonomy_filter&quot;:&quot;category&quot;,&quot;additional_query_args&quot;:{&quot;tax_query&quot;:[{&quot;taxonomy&quot;:&quot;category&quot;,&quot;field&quot;:&quot;slug&quot;,&quot;terms&quot;:&quot;print&quot;}]},&quot;space_value&quot;:25}">
+		<div class="qodef-grid-inner clear">
+		<article class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-759 post type-post status-publish format-standard has-post-thumbnail hentry category-billboard category-color category-print tag-color tag-creative tag-digital">
+	<div class="qodef-e-inner">
+		<div class="qodef-e-meddata">
+			<div class="qodef-e-media">
+		<div class="qodef-e-media-image">
+		<a itemprop="url" href="print-is-really-not-dead/index.html">
+			<img width="1400" height="930" src="{%static './wp-content/uploads/2020/05/blog-single-img-1.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-1.jpg 1400w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-1-600x399.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-1-300x199.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-1-1024x680.jpg 1024w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-1-768x510.jpg 768w" sizes="(max-width: 1400px) 100vw, 1400px" />		</a>
+		<div itemprop="dateCreated" class="qodef-e-info-item qodef-e-info-date entry-date published updated">
+	<a itemprop="url" href="2020/05/index.html">May 27, 2020</a>
+	<meta itemprop="interactionCount" content="UserComments: 2"/>
+</div>	</div>
+</div>		</div>
+		<div class="qodef-e-content" >
+			<div class="qodef-e-info qodef-info--top">
+				<div class="qodef-e-info-item qodef-e-info-category">
+	<a href="category/billboard/index.html" rel="category tag">Billboard</a>, <a href="category/color/index.html" rel="category tag">Color</a>, <a href="category/print/index.html" rel="category tag">Print</a></div>			</div>
+			<div class="qodef-e-text">
+				<h5 itemprop="name" class="qodef-e-title entry-title" >
+	<a itemprop="url" class="qodef-e-title-link" href="print-is-really-not-dead/index.html">
+		Print is really not dead	</a>
+</h5>		<p itemprop="description" class="qodef-e-excerpt">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...		</p>
+				</div>
+			<div class="qodef-e-info qodef-info--bottom">
+									<div class="qodef-e-info-left">
+							<div class="qodef-e-read-more">
+		<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link qodef-btn-wave-hover" href="print-is-really-not-dead/index.html" target="_self"  >	<span class="qodef-m-text">Read More</span></a>	</div>
+					</div>
+											</div>
+		</div>
+	</div>
+</article><article class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-956 post type-post status-publish format-standard has-post-thumbnail hentry category-book category-magazine category-print tag-color tag-creative tag-digital">
+	<div class="qodef-e-inner">
+		<div class="qodef-e-meddata">
+			<div class="qodef-e-media">
+		<div class="qodef-e-media-image">
+		<a itemprop="url" href="more-ways-to-showcase/index.html">
+			<img width="1400" height="930" src="{%static './wp-content/uploads/2020/05/blog-single-img-4.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-4.jpg 1400w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-4-600x399.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-4-300x199.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-4-1024x680.jpg 1024w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-4-768x510.jpg 768w" sizes="(max-width: 1400px) 100vw, 1400px" />		</a>
+		<div itemprop="dateCreated" class="qodef-e-info-item qodef-e-info-date entry-date published updated">
+	<a itemprop="url" href="2020/05/index.html">May 28, 2020</a>
+	<meta itemprop="interactionCount" content="UserComments: 2"/>
+</div>	</div>
+</div>		</div>
+		<div class="qodef-e-content" >
+			<div class="qodef-e-info qodef-info--top">
+				<div class="qodef-e-info-item qodef-e-info-category">
+	<a href="category/book/index.html" rel="category tag">Book</a>, <a href="category/magazine/index.html" rel="category tag">Magazine</a>, <a href="category/print/index.html" rel="category tag">Print</a></div>			</div>
+			<div class="qodef-e-text">
+				<h5 itemprop="name" class="qodef-e-title entry-title" >
+	<a itemprop="url" class="qodef-e-title-link" href="more-ways-to-showcase/index.html">
+		More ways to showcase	</a>
+</h5>		<p itemprop="description" class="qodef-e-excerpt">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...		</p>
+				</div>
+			<div class="qodef-e-info qodef-info--bottom">
+									<div class="qodef-e-info-left">
+							<div class="qodef-e-read-more">
+		<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link qodef-btn-wave-hover" href="more-ways-to-showcase/index.html" target="_self"  >	<span class="qodef-m-text">Read More</span></a>	</div>
+					</div>
+											</div>
+		</div>
+	</div>
+</article><article class="qodef-e qodef-blog-item qodef-grid-item qodef-item--full post-959 post type-post status-publish format-standard has-post-thumbnail hentry category-color category-digital category-print tag-color tag-creative tag-digital">
+	<div class="qodef-e-inner">
+		<div class="qodef-e-meddata">
+			<div class="qodef-e-media">
+		<div class="qodef-e-media-image">
+		<a itemprop="url" href="the-cmyk-color-models/index.html">
+			<img width="1400" height="930" src="{%static './wp-content/uploads/2020/05/blog-single-img-5.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-5.jpg 1400w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-5-600x399.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-5-300x199.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-5-1024x680.jpg 1024w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/blog-single-img-5-768x510.jpg 768w" sizes="(max-width: 1400px) 100vw, 1400px" />		</a>
+		<div itemprop="dateCreated" class="qodef-e-info-item qodef-e-info-date entry-date published updated">
+	<a itemprop="url" href="2020/05/index.html">May 28, 2020</a>
+	<meta itemprop="interactionCount" content="UserComments: 2"/>
+</div>	</div>
+</div>		</div>
+		<div class="qodef-e-content" >
+			<div class="qodef-e-info qodef-info--top">
+				<div class="qodef-e-info-item qodef-e-info-category">
+	<a href="category/color/index.html" rel="category tag">Color</a>, <a href="category/digital/index.html" rel="category tag">Digital</a>, <a href="category/print/index.html" rel="category tag">Print</a></div>			</div>
+			<div class="qodef-e-text">
+				<h5 itemprop="name" class="qodef-e-title entry-title" >
+	<a itemprop="url" class="qodef-e-title-link" href="the-cmyk-color-models/index.html">
+		The cmyk color models	</a>
+</h5>		<p itemprop="description" class="qodef-e-excerpt">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...		</p>
+				</div>
+			<div class="qodef-e-info qodef-info--bottom">
+									<div class="qodef-e-info-left">
+							<div class="qodef-e-read-more">
+		<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--textual  qodef-html--link qodef-btn-wave-hover" href="the-cmyk-color-models/index.html" target="_self"  >	<span class="qodef-m-text">Read More</span></a>	</div>
+					</div>
+											</div>
+		</div>
+	</div>
+</article>	</div>
+	</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-bda6bcf qodef-elementor-content-grid elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="bda6bcf" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c99fcd4 elementor-column elementor-col-100 elementor-top-column" data-id="c99fcd4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1e45e79 elementor-widget elementor-widget-etchy_core_section_title" data-id="1e45e79" data-element_type="widget" data-widget_type="etchy_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef--icon-pack qodef--has-appear">
+		<h3 class="qodef-m-title" style="color: #FFFFFF">
+					<span class="qodef-m-title-line">New way to print your</span> <span class="qodef-m-title-line"> design <span class="qodef-last-word">projects<span class="qodef-m-icon-wrapper"><span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">	            </span></span></span></span>			</h3>
+		</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-765de73 elementor-widget elementor-widget-wp-widget-etchy_core_contact_form_7" data-id="765de73" data-element_type="widget" data-widget_type="wp-widget-etchy_core_contact_form_7.default">
+				<div class="elementor-widget-container">
+						<div class="qodef-contact-form-7">
+				<div role="form" class="wpcf7" id="wpcf7-f384-p7-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="https://etchy.qodeinteractive.com/#wpcf7-f384-p7-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="384" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f384-p7-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="7" />
+</div>
+<div class="qodef-subscribe-form qodef-form-light">
+  <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Get weekly newsletters" /></span><br />
+  <button type="submit" class="wpcf7-form-control wpcf7-submit qodef-button qodef-m qodef-subscribe-icon"></button>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>			</div>
+					</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-e56dabd elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no elementor-section elementor-top-section" data-id="e56dabd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4953a84 elementor-column elementor-col-100 elementor-top-column" data-id="4953a84" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-0ae148c elementor-section-content-middle qodef-elementor-content-grid elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="0ae148c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-d2ded30 elementor-column elementor-col-50 elementor-top-column" data-id="d2ded30" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d8dbc14 elementor-widget elementor-widget-etchy_core_accordion" data-id="d8dbc14" data-element_type="widget" data-widget_type="etchy_core_accordion.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-accordion clear qodef-behavior--accordion qodef-layout--simple">
+	<h6 class="qodef-accordion-title">
+	<span class="qodef-tab-title">
+		ORDERS, DELIVERY &amp; RETURNS	</span>
+	<span class="qodef-accordion-mark">
+		<span class="qodef-icon-font-awesome fas fa-plus qodef-icon--plus" ></span>		<span class="qodef-icon-font-awesome fas fa-minus qodef-icon--minus" ></span>	</span>
+</h6>
+<div class="qodef-accordion-content">
+	<div class="qodef-accordion-content-inner">
+		<p>Etiam finibus ullamcorper libero sed vestibulum. Morbi elementum, augue nec ullamcorper consectetur, ante enim varius risus, vitae dapibus felis velit sit amet sapien. Quisque eros enim, congue ac ante in, eleifend consectetur quam. </p>	</div>
+</div><h6 class="qodef-accordion-title">
+	<span class="qodef-tab-title">
+		GIFT CERTIFICATE &amp; REGISTRY	</span>
+	<span class="qodef-accordion-mark">
+		<span class="qodef-icon-font-awesome fas fa-plus qodef-icon--plus" ></span>		<span class="qodef-icon-font-awesome fas fa-minus qodef-icon--minus" ></span>	</span>
+</h6>
+<div class="qodef-accordion-content">
+	<div class="qodef-accordion-content-inner">
+		<p>Donec posuere ligula id magna tincidunt interdum. Sed sit amet risus a erat aliquet interdum non non ante. Ut accumsan a eros sed dapibus. Aenean faucibus mi in diam porta, sit amet tempor purus vulputate. Praesent quis.</p>	</div>
+</div><h6 class="qodef-accordion-title">
+	<span class="qodef-tab-title">
+		OTHER QUESTIONS	</span>
+	<span class="qodef-accordion-mark">
+		<span class="qodef-icon-font-awesome fas fa-plus qodef-icon--plus" ></span>		<span class="qodef-icon-font-awesome fas fa-minus qodef-icon--minus" ></span>	</span>
+</h6>
+<div class="qodef-accordion-content">
+	<div class="qodef-accordion-content-inner">
+		<p>Curabitur commodo, orci et pharetra iaculis, nibh lorem ultricies libero, sit amet rutrum enim neque tristique ante. Vivamus a lorem non dolor maximus mollis. Vivamus vel diam eu tellus vestibulum pharetra. Pellentesque sed ultricies est.</p>	</div>
+</div><h6 class="qodef-accordion-title">
+	<span class="qodef-tab-title">
+		PRESALE QUESTIONS	</span>
+	<span class="qodef-accordion-mark">
+		<span class="qodef-icon-font-awesome fas fa-plus qodef-icon--plus" ></span>		<span class="qodef-icon-font-awesome fas fa-minus qodef-icon--minus" ></span>	</span>
+</h6>
+<div class="qodef-accordion-content">
+	<div class="qodef-accordion-content-inner">
+		<p>Sed ligula ligula, fringilla et dapibus sed, placerat hendrerit leo. Ut nibh diam, tincidunt sed facilisis ac, aliquam et elit. Proin euismod dapibus neque eget suscipit. Ut eu felis a urna volutpat posuere. Maecenas at magna nisi.</p>	</div>
+</div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-9b9f0a8 elementor-column elementor-col-50 elementor-top-column" data-id="9b9f0a8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2d147a9 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-etchy_core_section_title" data-id="2d147a9" data-element_type="widget" data-widget_type="etchy_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  qodef--custom-icon qodef--has-appear">
+		<h2 class="qodef-m-title" >
+					<span class="qodef-m-title-line">Who we <span class="qodef-last-word">are<span class="qodef-m-icon-wrapper" style="margin: 8px 0px 0px 0px"><img width="14" height="14" src="{%static './wp-content/uploads/2020/06/h1-title-icon-img-2.png'%}" class="attachment-full size-full" alt="a" /></span></span></span>			</h2>
+		<p class="qodef-m-subtitle" style="margin-top: 5px">Phasellus vel sollicitudin est. Etiam dapibus tellus odio vitae augue nulla ut velit</p>
+	</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-deebf66 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="deebf66" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Integer vulputate lacus sollicitudin lectus efficitur, et convallis turpis egestas. Mauris porttitor. Curabitur eu imperdiet massa.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-bf0c631 elementor-widget elementor-widget-etchy_core_button" data-id="bf0c631" data-element_type="widget" data-widget_type="etchy_core_button.default">
+				<div class="elementor-widget-container">
+				<span class='qodef-wave-btn-holder'>
+	<a class="qodef-shortcode qodef-m  qodef-button qodef-layout--outlined  qodef-html--link qodef-btn-wave-hover" href="about-us/index.html" target="_self"  >
+		<span class="qodef-m-text">See more</span>
+					<span class="qodef-btn-masked" >
+				<span class="qodef-m-text">See more</span>
+			</span>
+			</a>
+	</span>
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-cf3f6ec elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no elementor-section elementor-top-section" data-id="cf3f6ec" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-37aaf0d elementor-column elementor-col-100 elementor-top-column" data-id="37aaf0d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e3e1c76 elementor-widget elementor-widget-etchy_core_product_list" data-id="e3e1c76" data-element_type="widget" data-widget_type="etchy_core_product_list.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-woo-shortcode qodef-woo-product-list qodef-item-layout--info-on-image qodef-grid qodef-layout--columns  qodef-gutter--no qodef-col-num--4 qodef-item-layout--info-on-image   qodef--no-bottom-space qodef-pagination--off qodef-responsive--custom qodef-col-num--1440--4 qodef-col-num--1366--4 qodef-col-num--1024--2 qodef-col-num--768--2 qodef-col-num--680--1 qodef-col-num--480--1" data-options="{&quot;plugin&quot;:&quot;etchy_core&quot;,&quot;module&quot;:&quot;plugins\/woocommerce\/shortcodes&quot;,&quot;shortcode&quot;:&quot;product-list&quot;,&quot;post_type&quot;:&quot;product&quot;,&quot;next_page&quot;:&quot;2&quot;,&quot;max_pages_num&quot;:1,&quot;behavior&quot;:&quot;columns&quot;,&quot;images_proportion&quot;:&quot;full&quot;,&quot;columns&quot;:&quot;4&quot;,&quot;columns_responsive&quot;:&quot;custom&quot;,&quot;columns_1440&quot;:&quot;4&quot;,&quot;columns_1366&quot;:&quot;4&quot;,&quot;columns_1024&quot;:&quot;2&quot;,&quot;columns_768&quot;:&quot;2&quot;,&quot;columns_680&quot;:&quot;1&quot;,&quot;columns_480&quot;:&quot;1&quot;,&quot;space&quot;:&quot;no&quot;,&quot;posts_per_page&quot;:&quot;4&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;additional_params&quot;:&quot;id&quot;,&quot;post_ids&quot;:&quot;287, 160, 301, 146&quot;,&quot;layout&quot;:&quot;info-on-image&quot;,&quot;title_tag&quot;:&quot;h4&quot;,&quot;pagination_type&quot;:&quot;no-pagination&quot;,&quot;object_class_name&quot;:&quot;EtchyCoreProductListShortcode&quot;,&quot;taxonomy_filter&quot;:&quot;product_cat&quot;,&quot;additional_query_args&quot;:{&quot;orderby&quot;:&quot;post__in&quot;,&quot;post__in&quot;:[&quot;287&quot;,&quot; 160&quot;,&quot; 301&quot;,&quot; 146&quot;]}}">
+		<div class="qodef-grid-inner clear">
+		<div class="qodef-e qodef-grid-item qodef-item--full product type-product post-287 status-publish first instock product_cat-sticky-label product_tag-digital_print has-post-thumbnail shipping-taxable purchasable product-type-simple">
+    <div class="qodef-woo-product-inner">
+		            <div class="qodef-woo-product-image">
+								<img width="800" height="750" src="{%static './wp-content/uploads/2020/05/shop-image3.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image3.jpg 800w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image3-600x563.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image3-300x281.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image3-768x720.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                <div class="qodef-woo-product-image-inner">
+	                <div class="qodef-woo-product-image-inner-2">
+		                <div class="qodef-woo-product-content-top">
+	                        		<div class="qodef-woo-product-price price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>7.00</span></div>
+		                        <h4 itemprop="name" class="qodef-woo-product-title entry-title" >
+	<a itemprop="url" class="qodef-woo-product-title-link" href="product/etiquette/index.html">
+		Etiquette	</a>
+</h4>	                        	<div class="qodef-woo-product-categories"><a href="product-category/sticky-label/index.html" rel="tag">Sticky label</a></div>
+		                </div>
+		                <div class="qodef-woo-product-button-holder">
+                            <a href="index564a.html?add-to-cart=287" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart qodef-btn-wave-hover" data-product_id="287" data-product_sku="014" aria-label="Add &ldquo;Etiquette&rdquo; to your cart" rel="nofollow">Add to cart<span class="qodef-btn-masked"><span class="qodef-m-text">Add to cart</span></span></a>		                </div>
+							                </div>
+                </div>
+            </div>
+				<a href="product/etiquette/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"></a>    </div>
+</div><div class="qodef-e qodef-grid-item qodef-item--full product type-product post-160 status-publish instock product_cat-magazine product_tag-design has-post-thumbnail shipping-taxable purchasable product-type-simple">
+    <div class="qodef-woo-product-inner">
+		            <div class="qodef-woo-product-image">
+								<img width="800" height="750" src="{%static './wp-content/uploads/2020/05/shop-image11.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image11.jpg 800w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image11-600x563.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image11-300x281.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image11-768x720.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                <div class="qodef-woo-product-image-inner">
+	                <div class="qodef-woo-product-image-inner-2">
+		                <div class="qodef-woo-product-content-top">
+	                        		<div class="qodef-woo-product-price price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>10.00</span></div>
+		                        <h4 itemprop="name" class="qodef-woo-product-title entry-title" >
+	<a itemprop="url" class="qodef-woo-product-title-link" href="product/cork/index.html">
+		Cork	</a>
+</h4>	                        	<div class="qodef-woo-product-categories"><a href="product-category/magazine/index.html" rel="tag">Magazine</a></div>
+		                </div>
+		                <div class="qodef-woo-product-button-holder">
+                            <a href="index659c.html?add-to-cart=160" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart qodef-btn-wave-hover" data-product_id="160" data-product_sku="011" aria-label="Add &ldquo;Cork&rdquo; to your cart" rel="nofollow">Add to cart<span class="qodef-btn-masked"><span class="qodef-m-text">Add to cart</span></span></a>		                </div>
+							                </div>
+                </div>
+            </div>
+				<a href="product/cork/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"></a>    </div>
+</div><div class="qodef-e qodef-grid-item qodef-item--full product type-product post-301 status-publish last instock product_cat-packaging product_tag-offser_printing has-post-thumbnail shipping-taxable purchasable product-type-simple">
+    <div class="qodef-woo-product-inner">
+		            <div class="qodef-woo-product-image">
+								<img width="800" height="750" src="{%static './wp-content/uploads/2020/05/shop-image8.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image8.jpg 800w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image8-600x563.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image8-300x281.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image8-768x720.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                <div class="qodef-woo-product-image-inner">
+	                <div class="qodef-woo-product-image-inner-2">
+		                <div class="qodef-woo-product-content-top">
+	                        		<div class="qodef-woo-product-price price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>10.00</span></div>
+		                        <h4 itemprop="name" class="qodef-woo-product-title entry-title" >
+	<a itemprop="url" class="qodef-woo-product-title-link" href="product/bung/index.html">
+		Bung	</a>
+</h4>	                        	<div class="qodef-woo-product-categories"><a href="product-category/packaging/index.html" rel="tag">Packaging</a></div>
+		                </div>
+		                <div class="qodef-woo-product-button-holder">
+                            <a href="index8573.html?add-to-cart=301" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart qodef-btn-wave-hover" data-product_id="301" data-product_sku="020" aria-label="Add &ldquo;Bung&rdquo; to your cart" rel="nofollow">Add to cart<span class="qodef-btn-masked"><span class="qodef-m-text">Add to cart</span></span></a>		                </div>
+							                </div>
+                </div>
+            </div>
+				<a href="product/bung/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"></a>    </div>
+</div><div class="qodef-e qodef-grid-item qodef-item--full product type-product post-146 status-publish first instock product_cat-menus product_tag-offser_printing has-post-thumbnail shipping-taxable purchasable product-type-simple">
+    <div class="qodef-woo-product-inner">
+		            <div class="qodef-woo-product-image">
+								<img width="800" height="750" src="{%static './wp-content/uploads/2020/05/shop-image10.jpg'%}" class="attachment-full size-full" alt="a" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image10.jpg 800w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image10-600x563.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image10-300x281.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/shop-image10-768x720.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />                <div class="qodef-woo-product-image-inner">
+	                <div class="qodef-woo-product-image-inner-2">
+		                <div class="qodef-woo-product-content-top">
+	                        		<div class="qodef-woo-product-price price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>20.00</span></div>
+		                        <h4 itemprop="name" class="qodef-woo-product-title entry-title" >
+	<a itemprop="url" class="qodef-woo-product-title-link" href="product/hoodies-x/index.html">
+		Hoodies X	</a>
+</h4>	                        	<div class="qodef-woo-product-categories"><a href="product-category/menus/index.html" rel="tag">Menus</a></div>
+		                </div>
+		                <div class="qodef-woo-product-button-holder">
+                            <a href="index3e8c.html?add-to-cart=146" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart qodef-btn-wave-hover" data-product_id="146" data-product_sku="010" aria-label="Add &ldquo;Hoodies X&rdquo; to your cart" rel="nofollow">Add to cart<span class="qodef-btn-masked"><span class="qodef-m-text">Add to cart</span></span></a>		                </div>
+							                </div>
+                </div>
+            </div>
+				<a href="product/hoodies-x/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"></a>    </div>
+</div>	</div>
+	</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="qodef-parallax--custom qodef-parallax--focus elementor-element elementor-element-183c547 qodef-elementor-content-grid elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="183c547" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6889e5e elementor-column elementor-col-50 elementor-top-column" data-id="6889e5e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bc2412d elementor-widget elementor-widget-etchy_core_section_title" data-id="bc2412d" data-element_type="widget" data-widget_type="etchy_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--left  qodef--icon-pack qodef--has-appear">
+		<h2 class="qodef-m-title" style="color: #FFFFFF">
+					<span class="qodef-m-title-line">Make the perfect</span> <span class="qodef-m-title-line"> match with <span class="qodef-last-word">ease<span class="qodef-m-icon-wrapper"><span class="qodef-shortcode qodef-m  qodef-icon-holder qodef-size--default qodef-layout--normal">	            </span></span></span></span>			</h2>
+		</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4885178 elementor-widget elementor-widget-text-editor" data-id="4885178" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Sed semper, urna et viverra fermentum, turpis orci suscipit libero, at porta eros eros eget neque. Fusce est felis, dictum congue vitae, habitasse condimentum felis. Etiam velit tortor, ullamcorper conubia et cursus.</p></div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-e2064be elementor-section-boxed elementor-section-height-default elementor-section-height-default qodef-elementor-content-no elementor-section elementor-inner-section" data-id="e2064be" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-8cf6011 elementor-column elementor-col-50 elementor-inner-column" data-id="8cf6011" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1574217 elementor-widget elementor-widget-image" data-id="1574217" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="205" height="61" src="{%static './wp-content/uploads/2020/05/h1-signature-img-1.png'%}" class="attachment-medium_large size-medium_large" alt="a" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2069fe9 elementor-column elementor-col-50 elementor-inner-column" data-id="2069fe9" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-5e50757 elementor-column elementor-col-50 elementor-top-column" data-id="5e50757" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d051862 elementor-widget elementor-widget-etchy_core_check_list" data-id="d051862" data-element_type="widget" data-widget_type="etchy_core_check_list.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-check-list ">
+	<div class="qodef-m-items qodef-check-items">
+					<div class="qodef-m-item qodef-e qodef-item-price" data-price="65">
+				<div class="qodef-e-holder">
+					<label class="qodef-e-switch">
+						<input type="checkbox" checked>
+						<span class="qodef-e-slider"></span>
+					</label>
+				</div>
+				<div class="qodef-e-title-holder">
+					<h6>
+						STRUCTURAL VARNISH					</h6>
+				</div>
+			</div>
+					<div class="qodef-m-item qodef-e qodef-item-price" data-price="80">
+				<div class="qodef-e-holder">
+					<label class="qodef-e-switch">
+						<input type="checkbox" >
+						<span class="qodef-e-slider"></span>
+					</label>
+				</div>
+				<div class="qodef-e-title-holder">
+					<h6>
+						HIGH GLOSS SILVER					</h6>
+				</div>
+			</div>
+					<div class="qodef-m-item qodef-e qodef-item-price" data-price="70">
+				<div class="qodef-e-holder">
+					<label class="qodef-e-switch">
+						<input type="checkbox" checked>
+						<span class="qodef-e-slider"></span>
+					</label>
+				</div>
+				<div class="qodef-e-title-holder">
+					<h6>
+						AROMA INKS					</h6>
+				</div>
+			</div>
+					<div class="qodef-m-item qodef-e qodef-item-price" data-price="45">
+				<div class="qodef-e-holder">
+					<label class="qodef-e-switch">
+						<input type="checkbox" >
+						<span class="qodef-e-slider"></span>
+					</label>
+				</div>
+				<div class="qodef-e-title-holder">
+					<h6>
+						PHOSPHORESCENT INK					</h6>
+				</div>
+			</div>
+					<div class="qodef-m-item qodef-e qodef-item-price" data-price="50">
+				<div class="qodef-e-holder">
+					<label class="qodef-e-switch">
+						<input type="checkbox" >
+						<span class="qodef-e-slider"></span>
+					</label>
+				</div>
+				<div class="qodef-e-title-holder">
+					<h6>
+						RUB REMOVABLE INKS					</h6>
+				</div>
+			</div>
+			</div>
+
+	<div class="qodef-m-items qodef-check-text">
+        <div class="qodef-e-top">
+		<span class="qode-e-check-holder">
+			<span class="qodef-e-currency">$</span><span class="qodef-e-total-price">135</span>
+		</span>
+					<p class="qodef-e-text-side">Make a perfect match and check the price</p>
+				</div>
+	
+		<span class="qode-e-button">
+			<a itemprop="url" class="qodef-button qodef-layout--filled qodef-btn-wave-hover qodef-size--medium qodef-html--link" href="pricing-plans/index.html" target="_self">Purchase<span class="qodef-btn-masked"><span class="qodef-m-text">Purchase</span></span></a>
+		</span>
+	</div>
+</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-f86efdd qodef-elementor-content-grid elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f86efdd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-432ac11 elementor-column elementor-col-100 elementor-top-column" data-id="432ac11" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ea8a008 elementor-widget elementor-widget-etchy_core_section_title" data-id="ea8a008" data-element_type="widget" data-widget_type="etchy_core_section_title.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-section-title qodef-alignment--center  qodef--custom-icon qodef--has-appear">
+		<h2 class="qodef-m-title" >
+					<span class="qodef-m-title-line">They <span class="qodef-last-word">said<span class="qodef-m-icon-wrapper" style="margin: 8px -12px 0px 0px"><img width="28" height="19" src="{%static './wp-content/uploads/2020/06/h1-title-icon-img-3.png'%}" class="attachment-full size-full" alt="a" /></span></span></span>			</h2>
+		<p class="qodef-m-subtitle" style="margin-top: 5px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In cursus ultrices nibh ut</p>
+	</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9f67feb elementor-widget elementor-widget-etchy_core_testimonials_list" data-id="9f67feb" data-element_type="widget" data-widget_type="etchy_core_testimonials_list.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-testimonials-list qodef-navigation--custom  qodef-grid qodef-swiper-container  qodef-gutter--huge qodef-col-num--3 qodef-item-layout--info-below   qodef-responsive--custom qodef-col-num--1440--3 qodef-col-num--1366--3 qodef-col-num--1024--2 qodef-col-num--768--1 qodef-col-num--680--1 qodef-col-num--480--1" data-options="{&quot;slidesPerView&quot;:&quot;3&quot;,&quot;spaceBetween&quot;:80,&quot;loop&quot;:true,&quot;autoplay&quot;:true,&quot;speed&quot;:&quot;3000&quot;,&quot;speedAnimation&quot;:&quot;&quot;,&quot;direction&quot;:&quot;horizontal&quot;,&quot;customStages&quot;:true,&quot;slidesPerView1440&quot;:&quot;3&quot;,&quot;slidesPerView1366&quot;:&quot;3&quot;,&quot;slidesPerView1024&quot;:&quot;2&quot;,&quot;slidesPerView768&quot;:&quot;1&quot;,&quot;slidesPerView680&quot;:&quot;1&quot;,&quot;slidesPerView480&quot;:&quot;1&quot;}">
+	<div class="swiper-wrapper">
+		<div class="qodef-e swiper-slide">
+	<div class="qodef-e-inner">
+		<div class="qodef-e-content">
+			<div class="qodef-e-content-top">
+					<div class="qodef-e-media-image">
+		<img width="59" height="59" src="{%static './wp-content/uploads/2020/05/h1-testimonials-1.png'%}" class="attachment-full size-full wp-post-image" alt="a" />	</div>
+				<div class="qodef-e-author">
+	<h6 class="qodef-e-author-name">
+		Amanda Doe	</h6>
+	<div class="qodef-e-author-job">
+		Designer	</div>
+</div>
+			</div>
+				<p itemprop="description" class="qodef-e-text">
+		Sed a mauris sit amet urna posuere porta nec in libero. Maecenas a facilisis arcu, eu aliquet neque. Nam quis dictum ipsum, quis dapibus nunc sed. 	</p>
+		</div>
+	</div>
+</div><div class="qodef-e swiper-slide">
+	<div class="qodef-e-inner">
+		<div class="qodef-e-content">
+			<div class="qodef-e-content-top">
+					<div class="qodef-e-media-image">
+		<img width="59" height="59" src="{%static './wp-content/uploads/2020/05/h1-testimonials-2.png'%}" class="attachment-full size-full wp-post-image" alt="a" />	</div>
+				<div class="qodef-e-author">
+	<h6 class="qodef-e-author-name">
+		Bella Mathis	</h6>
+	<div class="qodef-e-author-job">
+		Designer	</div>
+</div>
+			</div>
+				<p itemprop="description" class="qodef-e-text">
+		Donec vel magna rhoncus tellus ultricies tristique. Proin et cursus nibh. Ut eu neque et dui dapibus laoreet sit amet id urna. Morbi odio enim. Cras in.	</p>
+		</div>
+	</div>
+</div><div class="qodef-e swiper-slide">
+	<div class="qodef-e-inner">
+		<div class="qodef-e-content">
+			<div class="qodef-e-content-top">
+					<div class="qodef-e-media-image">
+		<img width="59" height="59" src="{%static './wp-content/uploads/2020/05/h1-testimonials-3.png'%}" class="attachment-full size-full wp-post-image" alt="a" />	</div>
+				<div class="qodef-e-author">
+	<h6 class="qodef-e-author-name">
+		Angela Randall	</h6>
+	<div class="qodef-e-author-job">
+		Designer	</div>
+</div>
+			</div>
+				<p itemprop="description" class="qodef-e-text">
+		 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec et tempor augue. Praesent sagittis metus id est varius ut.	</p>
+		</div>
+	</div>
+</div>	</div>
+			<div class="swiper-pagination"></div>
+		</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-571e631 elementor-section-full_width elementor-section-height-default elementor-section-height-default qodef-elementor-content-no elementor-section elementor-top-section" data-id="571e631" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-04ee10b elementor-column elementor-col-100 elementor-top-column" data-id="04ee10b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-54ac820 elementor-widget elementor-widget-etchy_core_image_gallery" data-id="54ac820" data-element_type="widget" data-widget_type="etchy_core_image_gallery.default">
+				<div class="elementor-widget-container">
+			<div class="qodef-shortcode qodef-m  qodef-image-gallery qodef-magnific-popup qodef-popup-gallery qodef--has-hover  qodef-grid qodef-swiper-container  qodef-gutter--no qodef-col-num--3    qodef-responsive--custom qodef-col-num--1440--3 qodef-col-num--1366--3 qodef-col-num--1024--2 qodef-col-num--768--1 qodef-col-num--680--1 qodef-col-num--480--1" data-options="{&quot;slidesPerView&quot;:&quot;3&quot;,&quot;spaceBetween&quot;:0,&quot;loop&quot;:true,&quot;autoplay&quot;:false,&quot;speed&quot;:&quot;&quot;,&quot;speedAnimation&quot;:&quot;&quot;,&quot;direction&quot;:&quot;horizontal&quot;,&quot;customStages&quot;:true,&quot;slidesPerView1440&quot;:&quot;3&quot;,&quot;slidesPerView1366&quot;:&quot;3&quot;,&quot;slidesPerView1024&quot;:&quot;2&quot;,&quot;slidesPerView768&quot;:&quot;1&quot;,&quot;slidesPerView680&quot;:&quot;1&quot;,&quot;slidesPerView480&quot;:&quot;1&quot;}">
+	<div class="swiper-wrapper">
+		<div class="qodef-e qodef-image-wrapper swiper-slide">
+			<a class="qodef-popup-item" itemprop="image" href="{%static './wp-content/uploads/2020/05/h1-gallery-img-1.jpg'%}" data-type="image" title="art">
+			<img width="800" height="456" src="{%static './wp-content/uploads/2020/05/h1-gallery-img-1.jpg'%}" class="attachment-full size-full" alt="art" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-1.jpg 800w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-1-600x342.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-1-300x171.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-1-768x438.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />			</a>
+	</div><div class="qodef-e qodef-image-wrapper swiper-slide">
+			<a class="qodef-popup-item" itemprop="image" href="{%static './wp-content/uploads/2020/05/h1-gallery-img-2.jpg'%}" data-type="image" title="press">
+			<img width="800" height="456" src="{%static './wp-content/uploads/2020/05/h1-gallery-img-2.jpg'%}" class="attachment-full size-full" alt="press" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-2.jpg 800w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-2-600x342.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-2-300x171.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-2-768x438.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />			</a>
+	</div><div class="qodef-e qodef-image-wrapper swiper-slide">
+			<a class="qodef-popup-item" itemprop="image" href="{%static './wp-content/uploads/2020/05/h1-gallery-img-3.jpg'%}" data-type="image" title="books">
+			<img width="800" height="456" src="{%static './wp-content/uploads/2020/05/h1-gallery-img-3.jpg'%}" class="attachment-full size-full" alt="books" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-3.jpg 800w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-3-600x342.jpg 600w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-3-300x171.jpg 300w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/05/h1-gallery-img-3-768x438.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />			</a>
+	</div>	</div>
+			<div class="swiper-button-next"></div>
+		<div class="swiper-button-prev"></div>
+		</div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div>	</div>
+</main>
+			</div><!-- close #qodef-page-inner div from header.php -->
+		</div><!-- close #qodef-page-outer div from header.php -->
+		<footer id="qodef-page-footer" class="qodef--uncover">
+		<div id="qodef-page-footer-top-area">
+		<div id="qodef-page-footer-top-area-inner" class="qodef-content-full-width">
+			<div class="qodef-grid qodef-layout--columns qodef-responsive--custom qodef-col-num--4 qodef-col-num--1024--2 qodef-col-num--768--2 qodef-col-num--680--1 qodef-col-num--480--1">
+				<div class="qodef-grid-inner clear">
+											<div class="qodef-grid-item">
+							<div id="media_image-3" class="widget widget_media_image" data-area="footer_top_area_column_1"><a href="index.html"><img width="90" height="25" src="{%static './wp-content/uploads/2020/06/logo_light_footer-1.png'%}" class="image wp-image-3580  attachment-full size-full" alt="a" style="max-width: 100%; height: auto;" /></a></div><div id="text-4" class="widget widget_text" data-area="footer_top_area_column_1">			<div class="textwidget"><p style="color: #ffffff; max-width: 300px; margin-bottom: -32px;">Get a modern, boldly designed website for your print company today! We made Etchy so you can achieve that with ease. </p>
+</div>
+		</div><div id="text-5" class="widget widget_text" data-area="footer_top_area_column_1">			<div class="textwidget"><p><span style="font-size: 13px; letter-spacing: 0.03em;"><strong><a class="qodef-underline-link" style="color: #ffffff;" href="https://www.facebook.com/QodeInteractive/" target="_blank" rel="noopener noreferrer">FB.</a>   <a class="qodef-underline-link" style="color: #ffffff;" href="https://twitter.com/QodeInteractive" target="_blank" rel="noopener noreferrer">TW.</a>   <a class="qodef-underline-link" style="color: #ffffff;" href="https://www.instagram.com/qodeinteractive/" target="_blank" rel="noopener noreferrer">IG.</a></strong></span></p>
+</div>
+		</div>						</div>
+											<div class="qodef-grid-item">
+							<div id="text-8" class="widget widget_text" data-area="footer_top_area_column_2"><h5 class="qodef-widget-title">Useful links</h5>			<div class="textwidget"><div style="margin-bottom: 14px;">
+<p style="color: #ffffff; margin-bottom: -3px;"><a class="qodef-underline-link" href="about-us/index.html">About us</a></p>
+<p style="color: #ffffff; margin-bottom: -3px;"><a class="qodef-underline-link" href="our-services/index.html">What we do</a></p>
+<p style="color: #ffffff; margin-bottom: -3px;"><a class="qodef-underline-link" href="pricing-plans/index.html">Pricing plans</a></p>
+<p style="color: #ffffff; margin-bottom: -3px;"><a class="qodef-underline-link" href="contact-us/index.html">Contact us</a></p>
+</div>
+</div>
+		</div>						</div>
+											<div class="qodef-grid-item">
+							<div id="text-6" class="widget widget_text" data-area="footer_top_area_column_3"><h5 class="qodef-widget-title">Contact us</h5>			<div class="textwidget"><p style="color: #ffffff; margin-bottom: -3px;"><a class="qodef-underline-link" href="https://www.google.com/maps/place/New+York,+NY+10013,+USA/@40.7200816,-74.0123243,16z/data=!4m5!3m4!1s0x89c2598aef444927:0x39a324c5b0b9d684!8m2!3d40.7217861!4d-74.0094471" target="_blank" rel="noopener noreferrer">New York, NY 10013</a></p>
+<p style="color: #ffffff; margin-bottom: -3px;"><a class="qodef-underline-link" href="tel:31555122579">(315) 5512-2579 </a></p>
+<p style="color: #ffffff; margin-bottom: -17px;"><a class="qodef-underline-link" href="mailto:etchy@qode.com">etchy@qode.com</a></p>
+</div>
+		</div><div id="etchy_core_contact_form_7-2" class="widget widget_etchy_core_contact_form_7" data-area="footer_top_area_column_3">			<div class="qodef-contact-form-7">
+				<div role="form" class="wpcf7" id="wpcf7-f3316-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response" aria-live="polite"></div>
+<form action="https://etchy.qodeinteractive.com/#wpcf7-f3316-o2" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="3316" />
+<input type="hidden" name="_wpcf7_version" value="5.1.9" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3316-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<div class="qodef-subscribe-form qodef-narrow qodef-form-light" style="margin-bottom: 19px;">
+  <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Get weekly newsletters" /></span><br />
+  <button type="submit" class="wpcf7-form-control wpcf7-submit qodef-button qodef-m qodef-subscribe-icon"></button>
+</div>
+<div class="wpcf7-response-output wpcf7-display-none" aria-hidden="true"></div></form></div>			</div>
+			</div>						</div>
+											<div class="qodef-grid-item">
+							<div id="etchy_core_instagram_list-2" class="widget widget_etchy_core_instagram_list" data-area="footer_top_area_column_4"><h5 class="qodef-widget-title">Instagram</h5><div class="qodef-shortcode qodef-m qodef-instagram-in-footer qodef-instagram-list qodef-gutter--tiny qodef-col-num--4">
+	
+<div id="sb_instagram" class="sbi sbi_col_4  sbi_width_resp" style="padding-bottom: 10px;width: 100%;" data-feedid="sbi_17841436867168442#4" data-res="auto" data-cols="4" data-num="4" data-shortcode-atts="{&quot;0&quot;:&quot;4&quot;,&quot;1&quot;:&quot;4&quot;,&quot;2&quot;:&quot;5&quot;,&quot;3&quot;:&quot;px&quot;,&quot;4&quot;:&quot;auto&quot;,&quot;num&quot;:&quot;4&quot;,&quot;cols&quot;:&quot;4&quot;,&quot;imagepadding&quot;:&quot;5&quot;,&quot;imagepaddingunit&quot;:&quot;px&quot;,&quot;showheader&quot;:&quot;&quot;,&quot;showfollow&quot;:&quot;&quot;,&quot;showbutton&quot;:&quot;&quot;,&quot;imageres&quot;:&quot;auto&quot;}" >
+	
+    <div id="sbi_images" style="padding: 5px;">
+		<div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17867910370828368" data-date="1591697185">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CBNdsJtAHbR/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-den4-1.cdninstagram.com/v/t51.2885-15/103694612_151883466447656_3350925670064981618_n.jpg?_nc_cat=106&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQmBwx4x0p_LpPe7JfVdTMfTwH1pufVPpcOVgPYr46OZH7AJ_mvwgaeqZDcUYohEs5M&#038;_nc_ht=scontent-den4-1.cdninstagram.com&#038;oh=9babbca29cd740eadb5cdbc1beb633ba&#038;oe=5F2E0AF5" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-den4-1.cdninstagram.com\/v\/t51.2885-15\/103694612_151883466447656_3350925670064981618_n.jpg?_nc_cat=106&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQmBwx4x0p_LpPe7JfVdTMfTwH1pufVPpcOVgPYr46OZH7AJ_mvwgaeqZDcUYohEs5M&amp;_nc_ht=scontent-den4-1.cdninstagram.com&amp;oh=9babbca29cd740eadb5cdbc1beb633ba&amp;oe=5F2E0AF5&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CBNdsJtAHbR\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CBNdsJtAHbR\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-den4-1.cdninstagram.com\/v\/t51.2885-15\/103694612_151883466447656_3350925670064981618_n.jpg?_nc_cat=106&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQmBwx4x0p_LpPe7JfVdTMfTwH1pufVPpcOVgPYr46OZH7AJ_mvwgaeqZDcUYohEs5M&amp;_nc_ht=scontent-den4-1.cdninstagram.com&amp;oh=9babbca29cd740eadb5cdbc1beb633ba&amp;oe=5F2E0AF5&quot;}">
+            <span class="sbi-screenreader">Instagram post 17867910370828368</span>
+            	                    <img src="wp-content/plugins/instagram-feed/img/placeholder.png" alt="Instagram post 17867910370828368">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17856303886996632" data-date="1591697171">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CBNdqXBAHcZ/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-den4-1.cdninstagram.com/v/t51.2885-15/103159128_147652996841341_4843062784409844829_n.jpg?_nc_cat=107&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQm7Fy6LEvHyjT27ojyBpjvCsaCdrFPFfQmpBLUtrljvBwf00MujY5dg9ZbFsj9ufWo&#038;_nc_ht=scontent-den4-1.cdninstagram.com&#038;oh=9ab7214acd2e2cbfe86cf5d99ac68cf6&#038;oe=5F2D0889" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-den4-1.cdninstagram.com\/v\/t51.2885-15\/103159128_147652996841341_4843062784409844829_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQm7Fy6LEvHyjT27ojyBpjvCsaCdrFPFfQmpBLUtrljvBwf00MujY5dg9ZbFsj9ufWo&amp;_nc_ht=scontent-den4-1.cdninstagram.com&amp;oh=9ab7214acd2e2cbfe86cf5d99ac68cf6&amp;oe=5F2D0889&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CBNdqXBAHcZ\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CBNdqXBAHcZ\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-den4-1.cdninstagram.com\/v\/t51.2885-15\/103159128_147652996841341_4843062784409844829_n.jpg?_nc_cat=107&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQm7Fy6LEvHyjT27ojyBpjvCsaCdrFPFfQmpBLUtrljvBwf00MujY5dg9ZbFsj9ufWo&amp;_nc_ht=scontent-den4-1.cdninstagram.com&amp;oh=9ab7214acd2e2cbfe86cf5d99ac68cf6&amp;oe=5F2D0889&quot;}">
+            <span class="sbi-screenreader">Instagram post 17856303886996632</span>
+            	                    <img src="wp-content/plugins/instagram-feed/img/placeholder.png" alt="Instagram post 17856303886996632">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18064366948217999" data-date="1591697156">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CBNdogLgdrH/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-den4-1.cdninstagram.com/v/t51.2885-15/102564731_292750045107030_886224886295664529_n.jpg?_nc_cat=104&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQkCjkbKOK9ogE5O0tStYfcWkViA60VBeL_PwJ1CY9f1PwOLfvmTgSe6DpvcdKE-YXQ&#038;_nc_ht=scontent-den4-1.cdninstagram.com&#038;oh=50f7db9c09858199285f992821df90ae&#038;oe=5F2C854F" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-den4-1.cdninstagram.com\/v\/t51.2885-15\/102564731_292750045107030_886224886295664529_n.jpg?_nc_cat=104&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQkCjkbKOK9ogE5O0tStYfcWkViA60VBeL_PwJ1CY9f1PwOLfvmTgSe6DpvcdKE-YXQ&amp;_nc_ht=scontent-den4-1.cdninstagram.com&amp;oh=50f7db9c09858199285f992821df90ae&amp;oe=5F2C854F&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CBNdogLgdrH\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CBNdogLgdrH\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-den4-1.cdninstagram.com\/v\/t51.2885-15\/102564731_292750045107030_886224886295664529_n.jpg?_nc_cat=104&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQkCjkbKOK9ogE5O0tStYfcWkViA60VBeL_PwJ1CY9f1PwOLfvmTgSe6DpvcdKE-YXQ&amp;_nc_ht=scontent-den4-1.cdninstagram.com&amp;oh=50f7db9c09858199285f992821df90ae&amp;oe=5F2C854F&quot;}">
+            <span class="sbi-screenreader">Instagram post 18064366948217999</span>
+            	                    <img src="wp-content/plugins/instagram-feed/img/placeholder.png" alt="Instagram post 18064366948217999">
+        </a>
+    </div>
+</div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18090071095199025" data-date="1591697141">
+    <div class="sbi_photo_wrap">
+        <a class="sbi_photo" href="https://www.instagram.com/p/CBNdmxqgsvJ/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-den4-1.cdninstagram.com/v/t51.2885-15/102679041_162919841906016_2982437358122407872_n.jpg?_nc_cat=101&#038;_nc_sid=8ae9d6&#038;_nc_oc=AQnrWbbCeDKlt_l59G_YzMjIOF_OXqdIqYHeE60CA_5EdiUV8ZpFrLuOAkzPDaPIxgg&#038;_nc_ht=scontent-den4-1.cdninstagram.com&#038;oh=25e7c60fc46d1d66d0202ca4ca49066f&#038;oe=5F2AFB06" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-den4-1.cdninstagram.com\/v\/t51.2885-15\/102679041_162919841906016_2982437358122407872_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQnrWbbCeDKlt_l59G_YzMjIOF_OXqdIqYHeE60CA_5EdiUV8ZpFrLuOAkzPDaPIxgg&amp;_nc_ht=scontent-den4-1.cdninstagram.com&amp;oh=25e7c60fc46d1d66d0202ca4ca49066f&amp;oe=5F2AFB06&quot;,&quot;150&quot;:&quot;https:\/\/www.instagram.com\/p\/CBNdmxqgsvJ\/media\/?size=t&quot;,&quot;320&quot;:&quot;https:\/\/www.instagram.com\/p\/CBNdmxqgsvJ\/media\/?size=m&quot;,&quot;640&quot;:&quot;https:\/\/scontent-den4-1.cdninstagram.com\/v\/t51.2885-15\/102679041_162919841906016_2982437358122407872_n.jpg?_nc_cat=101&amp;_nc_sid=8ae9d6&amp;_nc_oc=AQnrWbbCeDKlt_l59G_YzMjIOF_OXqdIqYHeE60CA_5EdiUV8ZpFrLuOAkzPDaPIxgg&amp;_nc_ht=scontent-den4-1.cdninstagram.com&amp;oh=25e7c60fc46d1d66d0202ca4ca49066f&amp;oe=5F2AFB06&quot;}">
+            <span class="sbi-screenreader">Instagram post 18090071095199025</span>
+            	                    <img src="wp-content/plugins/instagram-feed/img/placeholder.png" alt="Instagram post 18090071095199025">
+        </a>
+    </div>
+</div>    </div>
+
+	<div id="sbi_load">
+
+	
+	
+</div>
+	    <span class="sbi_resized_image_data" data-feed-id="sbi_17841436867168442#4" data-resized="{&quot;17867910370828368&quot;:{&quot;id&quot;:&quot;103694612_151883466447656_3350925670064981618_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17856303886996632&quot;:{&quot;id&quot;:&quot;103159128_147652996841341_4843062784409844829_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18064366948217999&quot;:{&quot;id&quot;:&quot;102564731_292750045107030_886224886295664529_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18090071095199025&quot;:{&quot;id&quot;:&quot;102679041_162919841906016_2982437358122407872_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}}}">
+	</span>
+	</div>
+
+</div></div>						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+	<div id="qodef-page-footer-bottom-area">
+		<div id="qodef-page-footer-bottom-area-inner" class="qodef-content-full-width">
+			<div class="qodef-grid qodef-layout--columns qodef-responsive--custom qodef-col-num--2 qodef-col-num--680--1 qodef-col-num--480--1">
+				<div class="qodef-grid-inner clear">
+											<div class="qodef-grid-item">
+							<div id="text-7" class="widget widget_text" data-area="footer_bottom_area_column_1">			<div class="textwidget"><p><a style="color: #a0a0a0; font-size: 14px;" href="https://qodeinteractive.com/" target="_blank" rel="noopener noreferrer">© Copyright<span class="qodef-footer-hover"> Qode Interactive</span> 2020</a></p>
+</div>
+		</div>						</div>
+											<div class="qodef-grid-item">
+							<div id="media_image-4" class="widget widget_media_image" data-area="footer_bottom_area_column_2"><img width="342" height="29" src="wp-content/uploads/2020/06/footer-img-1.png" class="image wp-image-1318  attachment-full size-full" alt="a" style="max-width: 100%; height: auto;" srcset="https://etchy.qodeinteractive.com/wp-content/uploads/2020/06/footer-img-1.png 342w, https://etchy.qodeinteractive.com/wp-content/uploads/2020/06/footer-img-1-300x25.png 300w" sizes="(max-width: 342px) 100vw, 342px" /></div>						</div>
+									</div>
+			</div>
+		</div>
+	</div>
+</footer><a id="qodef-back-to-top" href="#" class="qodef-button qodef-btn-wave-hover qodef-type--filled">
+    <span class="qodef-back-to-top-icon">
+		<span class="qodef-icon-linea-icons icon-arrows-up" ></span>    </span>
+	<!--<span class="qodef-btn-masked">
+	</span>-->
+</a>	</div><!-- close #qodef-page-wrapper div from header.php -->
+	<div class="rbt-toolbar" data-theme="Etchy" data-featured="" data-button-position="63%" data-button-horizontal="right" data-button-alt="no" ></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KLJLSX7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://etchy.qodeinteractive.com/wp-admin/admin-ajax.php";
+</script>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400%7CArimo:400%2C700" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+			<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				var slider = document.getElementById(sliderID); slider.innerHTML = err; slider.style.display = "block";
+			}
+		}
+		</script>
+		<script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				var slider = document.getElementById(sliderID); slider.innerHTML = err; slider.style.display = "block";
+			}
+		}
+		</script>
+<link rel="stylesheet" href="{%static './wp-content/cache/minify/d5ca8.css'%}" media="all" />
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/etchy.qodeinteractive.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script src="{%static './wp-content/cache/minify/0fef6.js'%}"></script>
+
+<script type='text/javascript' src="{%static './_toolbar/assets/js/rbt-modules7661.js'%}"?ver=5.4.2'></script>
+<script src="{%static './wp-content/cache/minify/6d18f.js'%}"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/etchy.qodeinteractive.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+
+<script src="{%static './wp-content/cache/minify/dc06c.js'%}"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="{%static './wp-content/cache/minify/63a69.js'%}"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_6333fd9cdb5f8253c2d1ff39e3a91458","fragment_name":"wc_fragments_6333fd9cdb5f8253c2d1ff39e3a91458","request_timeout":"5000"};
+/* ]]> */
+</script>
+
+
+
+
+
+<script src="{%static './wp-content/cache/minify/cc2c8.js'%}"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var qodefGlobal = {"vars":{"adminBarHeight":0,"qodefStickyHeaderScrollAmount":0,"topAreaHeight":32,"restUrl":"https:\/\/etchy.qodeinteractive.com\/wp-json\/","restNonce":"b397a2b59b","wishlistRestRoute":"etchy\/v1\/wishlist","paginationRestRoute":"etchy\/v1\/get-posts","authorPaginationRestRoute":"etchy\/v1\/get-authors","wishlistDropdownRestRoute":"etchy\/v1\/wishlistdropdown","headerHeight":100,"mobileHeaderHeight":70}};
+/* ]]> */
+</script>
+<script src="{%static './wp-content/cache/minify/7e9ae.js'%}"></script>
+
+<script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?key=AIzaSyBoVk7b6aHXEVjZuG1aA6zTyQCAu4vnlCw&amp;ver=5.4.2'></script>
+
+
+<script src="{%static './wp-content/cache/minify/45375.js'%}"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var qodefMapsVariables = {"global":{"mapStyle":[{"featureType":"administrative","elementType":"geometry","stylers":[{"color":"#a7a7a7"}]},{"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"visibility":"on"},{"color":"#737373"}]},{"featureType":"landscape","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#efefef"}]},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#dadada"}]},{"featureType":"poi","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#696969"}]},{"featureType":"road","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"visibility":"on"},{"color":"#b3b3b3"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.arterial","elementType":"geometry.stroke","stylers":[{"color":"#d6d6d6"}]},{"featureType":"road.local","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#ffffff"},{"weight":1.8000000000000000444089209850062616169452667236328125}]},{"featureType":"road.local","elementType":"geometry.stroke","stylers":[{"color":"#d7d7d7"}]},{"featureType":"transit","elementType":"all","stylers":[{"color":"#808080"},{"visibility":"off"}]},{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#d3d3d3"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"color":"#424242"}]}],"mapZoom":12,"mapScrollable":false,"mapDraggable":true,"streetViewControl":true,"zoomControl":true,"mapTypeControl":true,"fullscreenControl":true},"multiple":[]};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+<script src="{%static './wp-content/cache/minify/0b968.js'%}"></script>
+
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+
+<script src="{%static './wp-content/cache/minify/864c2.js'%}"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+
+
+
+<script src="{%static './wp-content/cache/minify/ac3f0.js'%}"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/etchy.qodeinteractive.com\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/etchy.qodeinteractive.com\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png"};
+/* ]]> */
+</script>
+
+
+
+
+
+<script src="{%static './wp-content/cache/minify/c7165.js'%}"></script>
+
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.13","urls":{"assets":"https:\/\/etchy.qodeinteractive.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":7,"title":"Etchy%20%E2%80%93%20Print%20Shop%20WordPress%20Theme","excerpt":"","featuredImage":false}};
+</script>
+<script src="{%static './wp-content/cache/minify/9f110.js'%}"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var qodefElementorGlobal = {"vars":{"elementorSectionHandler":{"183c547":[{"url":"https:\/\/etchy.qodeinteractive.com\/wp-content\/uploads\/2020\/06\/h1-parallax-img-1.jpg","id":4068},""]}}};
+/* ]]> */
+</script>
+<script src="{%static './wp-content/cache/minify/1fff1.js'%}"></script>
+
+</body>
+
+<!-- Mirrored from etchy.qodeinteractive.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 09 Jul 2020 13:49:24 GMT -->
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced (SSL caching disabled) 
+Minified using disk
+
+Served from: etchy.qodeinteractive.com @ 2020-07-09 12:46:45 by W3 Total Cache
+-->
