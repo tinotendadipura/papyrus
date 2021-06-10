@@ -10,7 +10,7 @@ cffi==1.12.3
 chardet==3.0.4
 colorama==0.4.1
 crispy-forms-materialize==0.2
-Django==2.2.2
+Django==2.2.24
 django-cors-headers==3.2.1
 django-crispy-forms==1.7.2
 django-multiselectfield==0.1.8
